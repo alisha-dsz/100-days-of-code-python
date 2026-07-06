@@ -18,7 +18,7 @@ The projects demonstrate my progress in Python programming, covering topics from
 | Day 8 | Caesar Cipher | ✅ |
 | Day 9 | Secret Auction Program | ✅ |
 | Day 10 | Calculator Project | ✅ |
-| Day 11 | BlackJack Project | ✅ |
+| Day 11 | BlackJack Capstone Project | ✅ |
 
 > The table will be updated as I complete more projects.
 
