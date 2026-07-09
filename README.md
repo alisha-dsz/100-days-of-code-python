@@ -20,6 +20,7 @@ The projects demonstrate my progress in Python programming, covering topics from
 | Day 10 | Calculator Project | ✅ |
 | Day 11 | BlackJack Capstone Project | ✅ |
 | Day 12 | Number Guessing Game | ✅ |
+| Day 13 | Debugging | ✅ |
 
 > The table will be updated as I complete more projects.
 
