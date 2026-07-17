@@ -21,6 +21,9 @@ The projects demonstrate my progress in Python programming, covering topics from
 | Day 11 | BlackJack Capstone Project | ✅ |
 | Day 12 | Number Guessing Game | ✅ |
 | Day 13 | Debugging | ✅ |
+| Day 14 | Higher Lower Game | ✅ |
+| Day 15 | Coffee Machine | ✅ |
+| Day 16 | Coffee Machine OOP | ✅ |
 
 > The table will be updated as I complete more projects.
 
