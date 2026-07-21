@@ -26,6 +26,7 @@ The projects demonstrate my progress in Python programming, covering topics from
 | Day 16 | Coffee Machine OOP | ✅ |
 | Day 17 | Quiz Game | ✅ |
 | Day 18 | Hirst Spot Painting | ✅ |
+| Day 19 | Turtle Race | ✅ |
 
 > The table will be updated as I complete more projects.
 
