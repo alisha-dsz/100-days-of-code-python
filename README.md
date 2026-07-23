@@ -28,6 +28,7 @@ The projects demonstrate my progress in Python programming, covering topics from
 | Day 18 | Hirst Spot Painting | ✅ |
 | Day 19 | Turtle Race | ✅ |
 | Day 20 - 21 | Snake Game | ✅ |
+| Day 22 | Pong Game | ✅ |
 
 > The table will be updated as I complete more projects.
 
