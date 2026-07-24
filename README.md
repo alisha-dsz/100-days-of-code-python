@@ -30,6 +30,7 @@ The projects demonstrate my progress in Python programming, covering topics from
 | Day 20 - 21 | Snake Game | ✅ |
 | Day 22 | Pong Game | ✅ |
 | Day 23 | Turtle Crossing Game Capstone Project| ✅ |
+| Day 24 | Mail Merger Project| ✅ |
 
 > The table will be updated as I complete more projects.
 
