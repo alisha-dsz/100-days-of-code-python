@@ -32,6 +32,7 @@ The projects demonstrate my progress in Python programming, covering topics from
 | Day 23 | Turtle Crossing Game Capstone Project | ✅ |
 | Day 24 | Mail Merger Project | ✅ |
 | Day 25 | US States Game | ✅ |
+| Day 26 | NATO Phonetic Alphabet Project | ✅ |
 
 > The table will be updated as I complete more projects.
 
