@@ -1,13 +1,15 @@
-# 🐍 100 Days of Code – Python Projects
+# 🐍 100 Days of Code: Python Bootcamp Projects
 
-This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
+This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
-The projects demonstrate my progress in Python programming, covering topics from basic programming concepts to automation, web development, data analysis, APIs, and game development.
+These projects showcase my journey in Python programming, covering Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data analysis with Pandas, automation, and more.
+
+---
 
 ## 📂 Projects
 
-| Day | Project | Status |
-|-----|---------|--------|
+| Day | Project | Completed |
+|------|---------|:---------:|
 | Day 1 | Band Name Generator | ✅ |
 | Day 2 | Tip Calculator | ✅ |
 | Day 3 | Treasure Island | ✅ |
@@ -23,30 +25,68 @@ The projects demonstrate my progress in Python programming, covering topics from
 | Day 13 | Debugging | ✅ |
 | Day 14 | Higher Lower Game | ✅ |
 | Day 15 | Coffee Machine | ✅ |
-| Day 16 | Coffee Machine OOP | ✅ |
+| Day 16 | Coffee Machine (OOP) | ✅ |
 | Day 17 | Quiz Game | ✅ |
 | Day 18 | Hirst Spot Painting | ✅ |
 | Day 19 | Turtle Race | ✅ |
-| Day 20 - 21 | Snake Game | ✅ |
+| Day 20–21 | Snake Game | ✅ |
 | Day 22 | Pong Game | ✅ |
-| Day 23 | Turtle Crossing Game Capstone Project | ✅ |
+| Day 23 | Turtle Crossing Game (Capstone Project) | ✅ |
 | Day 24 | Mail Merger Project | ✅ |
-| Day 25 | US States Game | ✅ |
+| Day 25 | U.S. States Game | ✅ |
 | Day 26 | NATO Phonetic Alphabet Project | ✅ |
+| Day 27 | Mile to Kilometer Converter | ✅ |
 
-> The table will be updated as I complete more projects.
+> 🚀 This repository will be continuously updated as I progress through the **100 Days of Code** bootcamp.
 
-## 🛠️ Technologies Used
+---
+
+## 📊 Progress
+
+- ✅ **Projects Completed:** 27
+- 📅 **Current Progress:** Day 27 / 100
+
+---
+
+## 💡 Skills Covered
+
+- Python Fundamentals
+- Object-Oriented Programming (OOP)
+- Functions & Modules
+- File Handling
+- Error Handling & Debugging
+- Working with CSV Files
+- List & Dictionary Comprehensions
+- GUI Development with Tkinter
+- Turtle Graphics
+- Data Analysis with Pandas
+- Basic Software Design Principles
+- Git & GitHub
+
+---
+
+## 🛠️ Technologies & Tools
 
 - Python
-- Git & GitHub
+- Tkinter
+- Turtle Graphics
+- Pandas
+- Git
+- GitHub
+
+---
 
 ## 🎯 Objective
 
 - Strengthen Python programming skills through hands-on projects.
-- Build a portfolio showcasing practical Python applications.
-- Track my learning journey across the 100-day bootcamp.
+- Apply programming concepts by building real-world applications.
+- Build a portfolio that demonstrates consistent learning and practical experience.
+- Track my progress throughout the **100 Days of Code** bootcamp.
+
+---
 
 ## 📌 Note
 
-This repository is intended to document my learning journey. The projects are based on concepts taught in the bootcamp, with additional experimentation and improvements where applicable.
+This repository documents my learning journey through the **100 Days of Code: The Complete Python Pro Bootcamp**. The projects are based on concepts taught in the course, with additional experimentation, refactoring, and improvements where applicable.
+
+⭐ If you found this repository helpful or interesting, feel free to star it!
