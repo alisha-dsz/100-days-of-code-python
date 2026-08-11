@@ -8,35 +8,36 @@ These projects showcase my journey in Python programming, covering Python fundam
 
 ## 📂 Projects
 
-| **Day**   | **Project**                             | **Completed** |
-| --------- | --------------------------------------- | ------------- |
-| Day 1     | Band Name Generator                     | ✅             |
-| Day 2     | Tip Calculator                          | ✅             |
-| Day 3     | Treasure Island                         | ✅             |
-| Day 4     | Rock Paper Scissors                     | ✅             |
-| Day 5     | Password Generator                      | ✅             |
-| Day 6     | Escaping the Maze (Reeborg's World)     | ✅             |
-| Day 7     | Hangman                                 | ✅             |
-| Day 8     | Caesar Cipher                           | ✅             |
-| Day 9     | Secret Auction Program                  | ✅             |
-| Day 10    | Calculator Project                      | ✅             |
-| Day 11    | BlackJack Capstone Project              | ✅             |
-| Day 12    | Number Guessing Game                    | ✅             |
-| Day 13    | Debugging                               | ✅             |
-| Day 14    | Higher Lower Game                       | ✅             |
-| Day 15    | Coffee Machine                          | ✅             |
-| Day 16    | Coffee Machine (OOP)                    | ✅             |
-| Day 17    | Quiz Game                               | ✅             |
-| Day 18    | Hirst Spot Painting                     | ✅             |
-| Day 19    | Turtle Race                             | ✅             |
-| Day 20–21 | Snake Game                              | ✅             |
-| Day 22    | Pong Game                               | ✅             |
-| Day 23    | Turtle Crossing Game (Capstone Project) | ✅             |
-| Day 24    | Mail Merger Project                     | ✅             |
-| Day 25    | U.S. States Game                        | ✅             |
-| Day 26    | NATO Phonetic Alphabet Project          | ✅             |
-| Day 27    | Mile to Kilometer Converter             | ✅             |
-| Day 28    | Pomodoro Timer                          | ✅             |
+| **Day**   | **Project Completed**                   |   |
+| --------- | --------------------------------------- | - |
+| Day 1     | Band Name Generator                     | ✅ |
+| Day 2     | Tip Calculator                          | ✅ |
+| Day 3     | Treasure Island                         | ✅ |
+| Day 4     | Rock Paper Scissors                     | ✅ |
+| Day 5     | Password Generator                      | ✅ |
+| Day 6     | Escaping the Maze (Reeborg's World)     | ✅ |
+| Day 7     | Hangman                                 | ✅ |
+| Day 8     | Caesar Cipher                           | ✅ |
+| Day 9     | Secret Auction Program                  | ✅ |
+| Day 10    | Calculator Project                      | ✅ |
+| Day 11    | BlackJack Capstone Project              | ✅ |
+| Day 12    | Number Guessing Game                    | ✅ |
+| Day 13    | Debugging                               | ✅ |
+| Day 14    | Higher Lower Game                       | ✅ |
+| Day 15    | Coffee Machine                          | ✅ |
+| Day 16    | Coffee Machine (OOP)                    | ✅ |
+| Day 17    | Quiz Game                               | ✅ |
+| Day 18    | Hirst Spot Painting                     | ✅ |
+| Day 19    | Turtle Race                             | ✅ |
+| Day 20–21 | Snake Game                              | ✅ |
+| Day 22    | Pong Game                               | ✅ |
+| Day 23    | Turtle Crossing Game (Capstone Project) | ✅ |
+| Day 24    | Mail Merger Project                     | ✅ |
+| Day 25    | U.S. States Game                        | ✅ |
+| Day 26    | NATO Phonetic Alphabet Project          | ✅ |
+| Day 27    | Mile to Kilometer Converter             | ✅ |
+| Day 28    | Pomodoro Timer                          | ✅ |
+| Day 29    | Password Manager                        | ✅ |
 
 > 🚀 This repository will be continuously updated as I progress through the **100 Days of Code** bootcamp.
 
@@ -44,9 +45,9 @@ These projects showcase my journey in Python programming, covering Python fundam
 
 ## 📊 Progress
 
-* ✅ **Projects Completed:** 28
-* 📅 **Current Progress:** Day 28 / 100
-* 📈 **Completion:** 28%
+* ✅ **Projects Completed:** 29
+* 📅 **Current Progress:** Day 29 / 100
+* 📈 **Completion:** 29%
 
 ---
 
@@ -69,6 +70,11 @@ These projects showcase my journey in Python programming, covering Python fundam
 * Tkinter Canvas
 * Timers & Countdown Logic
 * `window.after()` for Scheduled Events
+* Random Password Generation
+* Randomization with `random`
+* Clipboard Operations with `pyperclip`
+* Message Boxes with Tkinter
+* Reading & Writing Text Files
 * Turtle Graphics
 * Game Development
 * Data Analysis with Pandas
@@ -83,6 +89,7 @@ These projects showcase my journey in Python programming, covering Python fundam
 * **Tkinter**
 * **Turtle Graphics**
 * **Pandas**
+* **Pyperclip**
 * **Git**
 * **GitHub**
 
@@ -96,6 +103,8 @@ These projects showcase my journey in Python programming, covering Python fundam
 * Practice GUI development and event-driven programming.
 * Build a portfolio that demonstrates consistent learning and practical experience.
 * Improve problem-solving and debugging skills.
+* Practice file handling and data persistence.
+* Learn to work with external Python libraries.
 * Track my progress throughout the **100 Days of Code** bootcamp.
 
 ---
