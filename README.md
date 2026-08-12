@@ -2,42 +2,43 @@
 
 This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
-These projects showcase my journey in Python programming, covering Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data analysis with Pandas, automation, and more.
+These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON, data analysis with Pandas, automation, and more**.
 
 ---
 
 ## 📂 Projects
 
-| **Day**   | **Project Completed**                   |   |
-| --------- | --------------------------------------- | - |
-| Day 1     | Band Name Generator                     | ✅ |
-| Day 2     | Tip Calculator                          | ✅ |
-| Day 3     | Treasure Island                         | ✅ |
-| Day 4     | Rock Paper Scissors                     | ✅ |
-| Day 5     | Password Generator                      | ✅ |
-| Day 6     | Escaping the Maze (Reeborg's World)     | ✅ |
-| Day 7     | Hangman                                 | ✅ |
-| Day 8     | Caesar Cipher                           | ✅ |
-| Day 9     | Secret Auction Program                  | ✅ |
-| Day 10    | Calculator Project                      | ✅ |
-| Day 11    | BlackJack Capstone Project              | ✅ |
-| Day 12    | Number Guessing Game                    | ✅ |
-| Day 13    | Debugging                               | ✅ |
-| Day 14    | Higher Lower Game                       | ✅ |
-| Day 15    | Coffee Machine                          | ✅ |
-| Day 16    | Coffee Machine (OOP)                    | ✅ |
-| Day 17    | Quiz Game                               | ✅ |
-| Day 18    | Hirst Spot Painting                     | ✅ |
-| Day 19    | Turtle Race                             | ✅ |
-| Day 20–21 | Snake Game                              | ✅ |
-| Day 22    | Pong Game                               | ✅ |
-| Day 23    | Turtle Crossing Game (Capstone Project) | ✅ |
-| Day 24    | Mail Merger Project                     | ✅ |
-| Day 25    | U.S. States Game                        | ✅ |
-| Day 26    | NATO Phonetic Alphabet Project          | ✅ |
-| Day 27    | Mile to Kilometer Converter             | ✅ |
-| Day 28    | Pomodoro Timer                          | ✅ |
-| Day 29    | Password Manager                        | ✅ |
+| **Day**   | **Project Completed**                   | **Status** |
+| --------- | --------------------------------------- | ---------- |
+| Day 1     | Band Name Generator                     | ✅          |
+| Day 2     | Tip Calculator                          | ✅          |
+| Day 3     | Treasure Island                         | ✅          |
+| Day 4     | Rock Paper Scissors                     | ✅          |
+| Day 5     | Password Generator                      | ✅          |
+| Day 6     | Escaping the Maze (Reeborg's World)     | ✅          |
+| Day 7     | Hangman                                 | ✅          |
+| Day 8     | Caesar Cipher                           | ✅          |
+| Day 9     | Secret Auction Program                  | ✅          |
+| Day 10    | Calculator Project                      | ✅          |
+| Day 11    | BlackJack Capstone Project              | ✅          |
+| Day 12    | Number Guessing Game                    | ✅          |
+| Day 13    | Debugging                               | ✅          |
+| Day 14    | Higher Lower Game                       | ✅          |
+| Day 15    | Coffee Machine                          | ✅          |
+| Day 16    | Coffee Machine (OOP)                    | ✅          |
+| Day 17    | Quiz Game                               | ✅          |
+| Day 18    | Hirst Spot Painting                     | ✅          |
+| Day 19    | Turtle Race                             | ✅          |
+| Day 20–21 | Snake Game                              | ✅          |
+| Day 22    | Pong Game                               | ✅          |
+| Day 23    | Turtle Crossing Game (Capstone Project) | ✅          |
+| Day 24    | Mail Merger Project                     | ✅          |
+| Day 25    | U.S. States Game                        | ✅          |
+| Day 26    | NATO Phonetic Alphabet Project          | ✅          |
+| Day 27    | Mile to Kilometer Converter             | ✅          |
+| Day 28    | Pomodoro Timer                          | ✅          |
+| Day 29    | Password Manager                        | ✅          |
+| Day 30    | Password Manager with JSON Storage      | ✅          |
 
 > 🚀 This repository will be continuously updated as I progress through the **100 Days of Code** bootcamp.
 
@@ -45,13 +46,15 @@ These projects showcase my journey in Python programming, covering Python fundam
 
 ## 📊 Progress
 
-* ✅ **Projects Completed:** 29
-* 📅 **Current Progress:** Day 29 / 100
-* 📈 **Completion:** 29%
+* ✅ **Projects Completed:** 30
+* 📅 **Current Progress:** Day 30 / 100
+* 📈 **Completion:** 30%
 
 ---
 
 ## 💡 Skills Covered
+
+### 🐍 Python Programming
 
 * Python Fundamentals
 * Variables & Data Types
@@ -60,26 +63,64 @@ These projects showcase my journey in Python programming, covering Python fundam
 * Functions & Modules
 * Lists, Tuples & Dictionaries
 * List & Dictionary Comprehensions
+* String Manipulation
+* Randomization
 * Object-Oriented Programming (OOP)
+
+### 📁 Data & File Handling
+
 * File Handling
-* Error Handling & Debugging
-* Working with CSV Files
-* Event-Driven Programming
-* GUI Development with Tkinter
-* Tkinter Widgets & Layouts
-* Tkinter Canvas
-* Timers & Countdown Logic
-* `window.after()` for Scheduled Events
-* Random Password Generation
-* Randomization with `random`
-* Clipboard Operations with `pyperclip`
-* Message Boxes with Tkinter
 * Reading & Writing Text Files
+* JSON Data Handling
+* `json.load()`
+* `json.dump()`
+* Data Persistence
+* Dictionaries for Structured Data
+* Exception Handling
+* `try`, `except`, `else`, and `finally`
+* `FileNotFoundError`
+
+### 🖥️ GUI Development
+
+* Tkinter GUI Development
+* Tkinter Widgets
+* Labels & Entry Fields
+* Buttons
+* Grid Layout Manager
+* Tkinter Canvas
+* Message Boxes
+* Event-Driven Programming
+* Widget Configuration
+* Timers & Countdown Logic
+* `window.after()`
+
+### 🎮 Game Development
+
 * Turtle Graphics
-* Game Development
-* Data Analysis with Pandas
+* Game Logic
+* Collision Detection
+* Keyboard Controls
+* Score Tracking
+* Game States
+* Randomized Gameplay
+
+### 🔧 Libraries & Tools
+
+* `random`
+* `json`
+* `pyperclip`
+* Pandas
+* Git
+* GitHub
+
+### 🧠 Problem Solving
+
+* Debugging
+* Error Handling
+* Logical Thinking
+* Code Organization
 * Basic Software Design Principles
-* Git & GitHub
+* Building Practical Applications
 
 ---
 
@@ -89,6 +130,7 @@ These projects showcase my journey in Python programming, covering Python fundam
 * **Tkinter**
 * **Turtle Graphics**
 * **Pandas**
+* **JSON**
 * **Pyperclip**
 * **Git**
 * **GitHub**
@@ -101,9 +143,11 @@ These projects showcase my journey in Python programming, covering Python fundam
 * Apply programming concepts by building practical applications.
 * Develop a strong understanding of Python and its libraries.
 * Practice GUI development and event-driven programming.
+* Learn file handling and persistent data storage.
+* Work with JSON for structured data storage.
+* Practice exception handling and debugging.
 * Build a portfolio that demonstrates consistent learning and practical experience.
-* Improve problem-solving and debugging skills.
-* Practice file handling and data persistence.
+* Improve problem-solving and logical thinking skills.
 * Learn to work with external Python libraries.
 * Track my progress throughout the **100 Days of Code** bootcamp.
 
