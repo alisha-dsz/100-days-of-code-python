@@ -2,7 +2,7 @@
 
 This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
-These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON, data analysis with Pandas, automation, and more**.
+These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, automation, and more**.
 
 ---
 
@@ -31,7 +31,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 | Day 19    | Turtle Race                             | ✅          |
 | Day 20–21 | Snake Game                              | ✅          |
 | Day 22    | Pong Game                               | ✅          |
-| Day 23    | Turtle Crossing Game (Capstone Project) | ✅          |
+| Day 23    | Turtle Crossing Game Capstone Project   | ✅          |
 | Day 24    | Mail Merger Project                     | ✅          |
 | Day 25    | U.S. States Game                        | ✅          |
 | Day 26    | NATO Phonetic Alphabet Project          | ✅          |
@@ -39,6 +39,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 | Day 28    | Pomodoro Timer                          | ✅          |
 | Day 29    | Password Manager                        | ✅          |
 | Day 30    | Password Manager with JSON Storage      | ✅          |
+| Day 31    | Flash Card App Capstone Project         | ✅          |
 
 > 🚀 This repository will be continuously updated as I progress through the **100 Days of Code** bootcamp.
 
@@ -46,9 +47,9 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📊 Progress
 
-* ✅ **Projects Completed:** 30
-* 📅 **Current Progress:** Day 30 / 100
-* 📈 **Completion:** 30%
+* ✅ **Projects Completed:** 31
+* 📅 **Current Progress:** Day 31 / 100
+* 📈 **Completion:** 31%
 
 ---
 
@@ -66,12 +67,20 @@ These projects showcase my journey in Python programming, covering **Python fund
 * String Manipulation
 * Randomization
 * Object-Oriented Programming (OOP)
+* Event-Driven Programming
+* Basic Software Design
 
 ### 📁 Data & File Handling
 
 * File Handling
 * Reading & Writing Text Files
+* CSV Data Handling
 * JSON Data Handling
+* Pandas DataFrames
+* `pd.read_csv()`
+* `pd.DataFrame()`
+* `to_dict()`
+* `to_csv()`
 * `json.load()`
 * `json.dump()`
 * Data Persistence
@@ -88,11 +97,24 @@ These projects showcase my journey in Python programming, covering **Python fund
 * Buttons
 * Grid Layout Manager
 * Tkinter Canvas
+* Images with `PhotoImage`
 * Message Boxes
 * Event-Driven Programming
 * Widget Configuration
 * Timers & Countdown Logic
 * `window.after()`
+* `window.after_cancel()`
+
+### 📊 Data Processing
+
+* Pandas
+* DataFrames
+* Reading CSV Files
+* Writing CSV Files
+* Converting DataFrames to Dictionaries
+* Working with Lists of Dictionaries
+* Data Filtering and Manipulation
+* Persistent CSV-Based Data
 
 ### 🎮 Game Development
 
@@ -109,7 +131,8 @@ These projects showcase my journey in Python programming, covering **Python fund
 * `random`
 * `json`
 * `pyperclip`
-* Pandas
+* `pandas`
+* `tkinter`
 * Git
 * GitHub
 
@@ -119,8 +142,10 @@ These projects showcase my journey in Python programming, covering **Python fund
 * Error Handling
 * Logical Thinking
 * Code Organization
+* Data Management
 * Basic Software Design Principles
 * Building Practical Applications
+* Working with External Libraries
 
 ---
 
@@ -131,6 +156,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 * **Turtle Graphics**
 * **Pandas**
 * **JSON**
+* **CSV**
 * **Pyperclip**
 * **Git**
 * **GitHub**
@@ -144,11 +170,13 @@ These projects showcase my journey in Python programming, covering **Python fund
 * Develop a strong understanding of Python and its libraries.
 * Practice GUI development and event-driven programming.
 * Learn file handling and persistent data storage.
-* Work with JSON for structured data storage.
+* Work with JSON and CSV for structured data storage.
+* Learn and practice Pandas for data processing.
 * Practice exception handling and debugging.
-* Build a portfolio that demonstrates consistent learning and practical experience.
+* Build applications that maintain data between sessions.
+* Work with external Python libraries.
 * Improve problem-solving and logical thinking skills.
-* Learn to work with external Python libraries.
+* Build a portfolio that demonstrates consistent learning and practical experience.
 * Track my progress throughout the **100 Days of Code** bootcamp.
 
 ---
