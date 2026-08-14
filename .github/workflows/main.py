@@ -5,9 +5,9 @@ import smtplib
 import datetime as dt
 import random
 
-my_email = "marina5@gmail.com"
-my_password = "12356"
-recipient_email = "alishamarinadsouza@gmail.com"
+my_email = os.environ.get("MY_EMAIL")
+my_password = os.environ.get("MY_PASSWORD")
+recipient_email = os.environ.get("RECIPIENT_EMAIL")
 
 
 # 1. Update the birthdays.csv
