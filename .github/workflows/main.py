@@ -13,7 +13,7 @@ recipient_email = os.environ.get("RECIPIENT_EMAIL")
 # 1. Update the birthdays.csv
 birthday_dict = {
     'name' : ['Alisha', 'Mum', 'Dad'],
-    'email' : [f'{recipient_email}','alisha@gmail.com', 'alishamarina@gmail.com'],
+    'email' : ['alisha@gmail.com',f'{recipient_email}', 'alishamarina@gmail.com'],
     'day' : [6, 14, 26],
     'month' : [9, 8, 9],
     'year' : [2005, 1980, 1970]
