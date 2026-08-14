@@ -1,4 +1,4 @@
-# 🐍 100 Days of Code: Python Bootcamp Projects
+# 🐍 100 Days of Code: The Complete Python Pro Bootcamp Projects
 
 This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
@@ -8,38 +8,39 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📂 Projects
 
-| **Day**   | **Project Completed**                   | **Status** |
-| --------- | --------------------------------------- | ---------- |
-| Day 1     | Band Name Generator                     | ✅          |
-| Day 2     | Tip Calculator                          | ✅          |
-| Day 3     | Treasure Island                         | ✅          |
-| Day 4     | Rock Paper Scissors                     | ✅          |
-| Day 5     | Password Generator                      | ✅          |
-| Day 6     | Escaping the Maze (Reeborg's World)     | ✅          |
-| Day 7     | Hangman                                 | ✅          |
-| Day 8     | Caesar Cipher                           | ✅          |
-| Day 9     | Secret Auction Program                  | ✅          |
-| Day 10    | Calculator Project                      | ✅          |
-| Day 11    | BlackJack Capstone Project              | ✅          |
-| Day 12    | Number Guessing Game                    | ✅          |
-| Day 13    | Debugging                               | ✅          |
-| Day 14    | Higher Lower Game                       | ✅          |
-| Day 15    | Coffee Machine                          | ✅          |
-| Day 16    | Coffee Machine (OOP)                    | ✅          |
-| Day 17    | Quiz Game                               | ✅          |
-| Day 18    | Hirst Spot Painting                     | ✅          |
-| Day 19    | Turtle Race                             | ✅          |
-| Day 20–21 | Snake Game                              | ✅          |
-| Day 22    | Pong Game                               | ✅          |
-| Day 23    | Turtle Crossing Game Capstone Project   | ✅          |
-| Day 24    | Mail Merger Project                     | ✅          |
-| Day 25    | U.S. States Game                        | ✅          |
-| Day 26    | NATO Phonetic Alphabet Project          | ✅          |
-| Day 27    | Mile to Kilometer Converter             | ✅          |
-| Day 28    | Pomodoro Timer                          | ✅          |
-| Day 29    | Password Manager                        | ✅          |
-| Day 30    | Password Manager with JSON Storage      | ✅          |
-| Day 31    | Flash Card App Capstone Project         | ✅          |
+| **Day**   | **Project Completed**                 | **Status** |
+| --------- | ------------------------------------- | ---------- |
+| Day 1     | Band Name Generator                   | ✅          |
+| Day 2     | Tip Calculator                        | ✅          |
+| Day 3     | Treasure Island                       | ✅          |
+| Day 4     | Rock Paper Scissors                   | ✅          |
+| Day 5     | Password Generator                    | ✅          |
+| Day 6     | Escaping the Maze (Reeborg's World)   | ✅          |
+| Day 7     | Hangman                               | ✅          |
+| Day 8     | Caesar Cipher                         | ✅          |
+| Day 9     | Secret Auction Program                | ✅          |
+| Day 10    | Calculator Project                    | ✅          |
+| Day 11    | BlackJack Capstone Project            | ✅          |
+| Day 12    | Number Guessing Game                  | ✅          |
+| Day 13    | Debugging                             | ✅          |
+| Day 14    | Higher Lower Game                     | ✅          |
+| Day 15    | Coffee Machine                        | ✅          |
+| Day 16    | Coffee Machine (OOP)                  | ✅          |
+| Day 17    | Quiz Game                             | ✅          |
+| Day 18    | Hirst Spot Painting                   | ✅          |
+| Day 19    | Turtle Race                           | ✅          |
+| Day 20–21 | Snake Game                            | ✅          |
+| Day 22    | Pong Game                             | ✅          |
+| Day 23    | Turtle Crossing Game Capstone Project | ✅          |
+| Day 24    | Mail Merger Project                   | ✅          |
+| Day 25    | U.S. States Game                      | ✅          |
+| Day 26    | NATO Phonetic Alphabet Project        | ✅          |
+| Day 27    | Mile to Kilometer Converter           | ✅          |
+| Day 28    | Pomodoro Timer                        | ✅          |
+| Day 29    | Password Manager                      | ✅          |
+| Day 30    | Password Manager with JSON Storage    | ✅          |
+| Day 31    | Flash Card App Capstone Project       | ✅          |
+| Day 32    | Automated Birthday Wisher             | ✅          |
 
 > 🚀 This repository will be continuously updated as I progress through the **100 Days of Code** bootcamp.
 
@@ -47,9 +48,9 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📊 Progress
 
-* ✅ **Projects Completed:** 31
-* 📅 **Current Progress:** Day 31 / 100
-* 📈 **Completion:** 31%
+* ✅ **Projects Completed:** 32
+* 📅 **Current Progress:** Day 32 / 100
+* 📈 **Completion:** 32%
 
 ---
 
@@ -126,6 +127,18 @@ These projects showcase my journey in Python programming, covering **Python fund
 * Game States
 * Randomized Gameplay
 
+### 📧 Automation & Email
+
+* Automated Email Sending
+* SMTP
+* Email Automation with Python
+* Working with Email Templates
+* Date-Based Automation
+* Reading Data from CSV Files
+* `smtplib`
+* `datetime`
+* `random`
+
 ### 🔧 Libraries & Tools
 
 * `random`
@@ -133,6 +146,9 @@ These projects showcase my journey in Python programming, covering **Python fund
 * `pyperclip`
 * `pandas`
 * `tkinter`
+* `smtplib`
+* `datetime`
+* `csv`
 * Git
 * GitHub
 
@@ -146,6 +162,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 * Basic Software Design Principles
 * Building Practical Applications
 * Working with External Libraries
+* Automation of Repetitive Tasks
 
 ---
 
@@ -157,6 +174,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 * **Pandas**
 * **JSON**
 * **CSV**
+* **SMTP**
 * **Pyperclip**
 * **Git**
 * **GitHub**
@@ -173,6 +191,8 @@ These projects showcase my journey in Python programming, covering **Python fund
 * Work with JSON and CSV for structured data storage.
 * Learn and practice Pandas for data processing.
 * Practice exception handling and debugging.
+* Automate repetitive tasks using Python.
+* Work with email automation and SMTP.
 * Build applications that maintain data between sessions.
 * Work with external Python libraries.
 * Improve problem-solving and logical thinking skills.
