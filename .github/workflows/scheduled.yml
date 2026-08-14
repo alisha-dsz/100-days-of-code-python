@@ -1,4 +1,3 @@
-
 name: Daily Birthday Wisher
 
 on:
@@ -19,11 +18,13 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install Pandas
-        run: pip install -r Day-032-Automated-Birthday-Wisher/requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        working-directory: Day-032-Automated-Birthday-Wisher
 
       - name: Run Birthday Wisher
         env:
           MY_EMAIL: ${{ secrets.MY_EMAIL }}
           MY_PASSWORD: ${{ secrets.MY_PASSWORD }}
-        run: python Day-032-Automated-Birthday-Wisher/main.py
+        run: python main.py
+        working-directory: Day-032-Automated-Birthday-Wisher
