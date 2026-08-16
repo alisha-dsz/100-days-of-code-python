@@ -1,4 +1,4 @@
-# 🛰️ Day 33 - ISS Overhead Notifier
+#  Day 33 - ISS Overhead Notifier
 
 ## 📖 Overview
 
