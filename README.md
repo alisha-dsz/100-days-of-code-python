@@ -8,40 +8,41 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📂 Projects
 
-| **Day**    | **Project Completed**                 | **Status** |
-| ---------- | ------------------------------------- | ---------- |
-| Day 1      | Band Name Generator                   | ✅          |
-| Day 2      | Tip Calculator                        | ✅          |
-| Day 3      | Treasure Island                       | ✅          |
-| Day 4      | Rock Paper Scissors                   | ✅          |
-| Day 5      | Password Generator                    | ✅          |
-| Day 6      | Escaping the Maze (Reeborg's World)   | ✅          |
-| Day 7      | Hangman                               | ✅          |
-| Day 8      | Caesar Cipher                         | ✅          |
-| Day 9      | Secret Auction Program                | ✅          |
-| Day 10     | Calculator Project                    | ✅          |
-| Day 11     | BlackJack Capstone Project            | ✅          |
-| Day 12     | Number Guessing Game                  | ✅          |
-| Day 13     | Debugging                             | ✅          |
-| Day 14     | Higher Lower Game                     | ✅          |
-| Day 15     | Coffee Machine                        | ✅          |
-| Day 16     | Coffee Machine (OOP)                  | ✅          |
-| Day 17     | Quiz Game                             | ✅          |
-| Day 18     | Hirst Spot Painting                   | ✅          |
-| Day 19     | Turtle Race                           | ✅          |
-| Day 20–21  | Snake Game                            | ✅          |
-| Day 22     | Pong Game                             | ✅          |
-| Day 23     | Turtle Crossing Game Capstone Project | ✅          |
-| Day 24     | Mail Merger Project                   | ✅          |
-| Day 25     | U.S. States Game                      | ✅          |
-| Day 26     | NATO Phonetic Alphabet Project        | ✅          |
-| Day 27     | Mile to Kilometer Converter           | ✅          |
-| Day 28     | Pomodoro Timer                        | ✅          |
-| Day 29     | Password Manager                      | ✅          |
-| Day 30     | Password Manager with JSON Storage    | ✅          |
-| Day 31     | Flash Card App Capstone Project       | ✅          |
-| Day 32     | Automated Birthday Wisher             | ✅          |
-| Day 33     | ISS Overhead Notifier                 | ✅          |
+| Day       | Project                               | Status |
+| --------- | ------------------------------------- | :----: |
+| Day 1     | Band Name Generator                   |    ✅   |
+| Day 2     | Tip Calculator                        |    ✅   |
+| Day 3     | Treasure Island                       |    ✅   |
+| Day 4     | Rock Paper Scissors                   |    ✅   |
+| Day 5     | Password Generator                    |    ✅   |
+| Day 6     | Escaping the Maze (Reeborg's World)   |    ✅   |
+| Day 7     | Hangman                               |    ✅   |
+| Day 8     | Caesar Cipher                         |    ✅   |
+| Day 9     | Secret Auction Program                |    ✅   |
+| Day 10    | Calculator Project                    |    ✅   |
+| Day 11    | BlackJack Capstone Project            |    ✅   |
+| Day 12    | Number Guessing Game                  |    ✅   |
+| Day 13    | Debugging                             |    ✅   |
+| Day 14    | Higher Lower Game                     |    ✅   |
+| Day 15    | Coffee Machine                        |    ✅   |
+| Day 16    | Coffee Machine (OOP)                  |    ✅   |
+| Day 17    | Quiz Game                             |    ✅   |
+| Day 18    | Hirst Spot Painting                   |    ✅   |
+| Day 19    | Turtle Race                           |    ✅   |
+| Day 20–21 | Snake Game                            |    ✅   |
+| Day 22    | Pong Game                             |    ✅   |
+| Day 23    | Turtle Crossing Game Capstone Project |    ✅   |
+| Day 24    | Mail Merger Project                   |    ✅   |
+| Day 25    | U.S. States Game                      |    ✅   |
+| Day 26    | NATO Phonetic Alphabet Project        |    ✅   |
+| Day 27    | Mile to Kilometer Converter           |    ✅   |
+| Day 28    | Pomodoro Timer                        |    ✅   |
+| Day 29    | Password Manager                      |    ✅   |
+| Day 30    | Password Manager with JSON Storage    |    ✅   |
+| Day 31    | Flash Card App Capstone Project       |    ✅   |
+| Day 32    | Automated Birthday Wisher             |    ✅   |
+| Day 33    | ISS Overhead Notifier                 |    ✅   |
+| Day 34    | Quiz App API                          |    ✅   |
 
 > 🚀 This repository will be continuously updated as I progress through the **100 Days of Code** bootcamp.
 
@@ -49,9 +50,9 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📊 Progress
 
-* ✅ **Projects Completed:** 33
-* 📅 **Current Progress:** Day 33 / 100
-* 📈 **Completion:** 33%
+* ✅ **Projects Completed:** 34
+* 📅 **Current Progress:** Day 34 / 100
+* 📈 **Completion:** 34%
 
 ---
 
@@ -69,7 +70,10 @@ These projects showcase my journey in Python programming, covering **Python fund
 * String Manipulation
 * Randomization
 * Object-Oriented Programming (OOP)
+* Classes & Objects
+* Constructors & Methods
 * Event-Driven Programming
+* Modular Programming
 * Basic Software Design
 * Problem Solving
 * Debugging
@@ -108,6 +112,8 @@ These projects showcase my journey in Python programming, covering **Python fund
 * Timers & Countdown Logic
 * `window.after()`
 * `window.after_cancel()`
+* Handling User Input
+* Interactive GUI Applications
 
 ### 📊 Data Processing
 
@@ -132,6 +138,8 @@ These projects showcase my journey in Python programming, covering **Python fund
 * Extracting Data from Nested JSON
 * Working with External APIs
 * API-Based Automation
+* Processing API Data
+* Converting API Data into Python Objects
 
 ### 🎮 Game Development
 
@@ -142,6 +150,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 * Score Tracking
 * Game States
 * Randomized Gameplay
+* Event-Driven Game Mechanics
 
 ### 📧 Automation & Email
 
@@ -159,6 +168,17 @@ These projects showcase my journey in Python programming, covering **Python fund
 * `datetime`
 * `time.sleep()`
 * Continuous Monitoring
+
+### 🧱 Object-Oriented Programming
+
+* Classes
+* Objects
+* Constructors
+* Instance Attributes
+* Methods
+* Encapsulation of Data and Logic
+* Creating Objects from API Data
+* Separating Application Responsibilities
 
 ### 🔧 Libraries & Tools
 
@@ -179,7 +199,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 🌐 APIs Used
 
-Through the projects completed so far, I have started working with external APIs and learning how Python applications can retrieve and process real-world data.
+Through the projects completed so far, I have started working with external APIs and learning how Python applications can retrieve, process, and use real-world data.
 
 ### ISS Location API
 
@@ -189,11 +209,18 @@ Used in the **ISS Overhead Notifier** to retrieve the current latitude and longi
 
 Used to retrieve sunrise and sunset information and determine whether it is currently nighttime at a specified location.
 
+### Open Trivia Database API
+
+Used in the **Quiz App API** to retrieve True/False quiz questions in JSON format.
+
+The application processes the API response and converts the retrieved question data into Python objects that are used by the quiz application.
+
 ---
 
 ## 🛠️ Technologies & Tools
 
 * **Python**
+* **Object-Oriented Programming**
 * **Tkinter**
 * **Turtle Graphics**
 * **Pandas**
@@ -201,6 +228,7 @@ Used to retrieve sunrise and sunset information and determine whether it is curr
 * **JSON**
 * **CSV**
 * **REST APIs**
+* **Open Trivia Database API**
 * **SMTP**
 * **Pyperclip**
 * **Git**
@@ -213,6 +241,7 @@ Used to retrieve sunrise and sunset information and determine whether it is curr
 * Strengthen Python programming skills through hands-on projects.
 * Apply programming concepts by building practical applications.
 * Develop a strong understanding of Python and its libraries.
+* Practice Object-Oriented Programming.
 * Practice GUI development and event-driven programming.
 * Learn file handling and persistent data storage.
 * Work with JSON and CSV for structured data storage.
@@ -220,6 +249,7 @@ Used to retrieve sunrise and sunset information and determine whether it is curr
 * Practice exception handling and debugging.
 * Learn how to interact with external APIs.
 * Process JSON responses from APIs.
+* Convert API data into Python objects.
 * Build applications that use real-world API data.
 * Automate repetitive tasks using Python.
 * Work with email automation and SMTP.
