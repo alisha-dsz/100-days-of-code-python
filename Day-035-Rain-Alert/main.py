@@ -40,7 +40,7 @@ if will_rain:
     message = client.messages.create(
         from_="whatsapp:+17372508034",
         body="It's going to rain today. Remember to bring an umbrella",
-        to="whatsapp:+918291434538",
+        to="whatsapp:+91785643921",
         content_sid="HX25161c213d71bb75e073ead06f38fbbd",
     )
 
