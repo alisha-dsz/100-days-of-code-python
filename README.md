@@ -2,47 +2,48 @@
 
 This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
-These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, automation, email automation, and more**.
+These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, messaging APIs, environment variables, and more**.
 
 ---
 
 ## 📂 Projects
 
-| Day       | Project                               | Status |
-| --------- | ------------------------------------- | :----: |
-| Day 1     | Band Name Generator                   |    ✅   |
-| Day 2     | Tip Calculator                        |    ✅   |
-| Day 3     | Treasure Island                       |    ✅   |
-| Day 4     | Rock Paper Scissors                   |    ✅   |
-| Day 5     | Password Generator                    |    ✅   |
-| Day 6     | Escaping the Maze (Reeborg's World)   |    ✅   |
-| Day 7     | Hangman                               |    ✅   |
-| Day 8     | Caesar Cipher                         |    ✅   |
-| Day 9     | Secret Auction Program                |    ✅   |
-| Day 10    | Calculator Project                    |    ✅   |
-| Day 11    | BlackJack Capstone Project            |    ✅   |
-| Day 12    | Number Guessing Game                  |    ✅   |
-| Day 13    | Debugging                             |    ✅   |
-| Day 14    | Higher Lower Game                     |    ✅   |
-| Day 15    | Coffee Machine                        |    ✅   |
-| Day 16    | Coffee Machine (OOP)                  |    ✅   |
-| Day 17    | Quiz Game                             |    ✅   |
-| Day 18    | Hirst Spot Painting                   |    ✅   |
-| Day 19    | Turtle Race                           |    ✅   |
-| Day 20–21 | Snake Game                            |    ✅   |
-| Day 22    | Pong Game                             |    ✅   |
-| Day 23    | Turtle Crossing Game Capstone Project |    ✅   |
-| Day 24    | Mail Merger Project                   |    ✅   |
-| Day 25    | U.S. States Game                      |    ✅   |
-| Day 26    | NATO Phonetic Alphabet Project        |    ✅   |
-| Day 27    | Mile to Kilometer Converter           |    ✅   |
-| Day 28    | Pomodoro Timer                        |    ✅   |
-| Day 29    | Password Manager                      |    ✅   |
-| Day 30    | Password Manager with JSON Storage    |    ✅   |
-| Day 31    | Flash Card App Capstone Project       |    ✅   |
-| Day 32    | Automated Birthday Wisher             |    ✅   |
-| Day 33    | ISS Overhead Notifier                 |    ✅   |
-| Day 34    | Quiz App API                          |    ✅   |
+| **Day**   | **Project**                           | **Status** |
+| --------- | ------------------------------------- | ---------- |
+| Day 1     | Band Name Generator                   | ✅          |
+| Day 2     | Tip Calculator                        | ✅          |
+| Day 3     | Treasure Island                       | ✅          |
+| Day 4     | Rock Paper Scissors                   | ✅          |
+| Day 5     | Password Generator                    | ✅          |
+| Day 6     | Escaping the Maze (Reeborg's World)   | ✅          |
+| Day 7     | Hangman                               | ✅          |
+| Day 8     | Caesar Cipher                         | ✅          |
+| Day 9     | Secret Auction Program                | ✅          |
+| Day 10    | Calculator Project                    | ✅          |
+| Day 11    | BlackJack Capstone Project            | ✅          |
+| Day 12    | Number Guessing Game                  | ✅          |
+| Day 13    | Debugging                             | ✅          |
+| Day 14    | Higher Lower Game                     | ✅          |
+| Day 15    | Coffee Machine                        | ✅          |
+| Day 16    | Coffee Machine (OOP)                  | ✅          |
+| Day 17    | Quiz Game                             | ✅          |
+| Day 18    | Hirst Spot Painting                   | ✅          |
+| Day 19    | Turtle Race                           | ✅          |
+| Day 20–21 | Snake Game                            | ✅          |
+| Day 22    | Pong Game                             | ✅          |
+| Day 23    | Turtle Crossing Game Capstone Project | ✅          |
+| Day 24    | Mail Merger Project                   | ✅          |
+| Day 25    | U.S. States Game                      | ✅          |
+| Day 26    | NATO Phonetic Alphabet Project        | ✅          |
+| Day 27    | Mile to Kilometer Converter           | ✅          |
+| Day 28    | Pomodoro Timer                        | ✅          |
+| Day 29    | Password Manager                      | ✅          |
+| Day 30    | Password Manager with JSON Storage    | ✅          |
+| Day 31    | Flash Card App Capstone Project       | ✅          |
+| Day 32    | Automated Birthday Wisher             | ✅          |
+| Day 33    | ISS Overhead Notifier                 | ✅          |
+| Day 34    | Quiz App API                          | ✅          |
+| Day 35    | Rain Alert                            | ✅          |
 
 > 🚀 This repository will be continuously updated as I progress through the **100 Days of Code** bootcamp.
 
@@ -50,9 +51,9 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📊 Progress
 
-* ✅ **Projects Completed:** 34
-* 📅 **Current Progress:** Day 34 / 100
-* 📈 **Completion:** 34%
+* ✅ **Projects Completed:** 35
+* 📅 **Current Progress:** Day 35 / 100
+* 📈 **Completion:** 35%
 
 ---
 
@@ -137,9 +138,34 @@ These projects showcase my journey in Python programming, covering **Python fund
 * API Query Parameters
 * Extracting Data from Nested JSON
 * Working with External APIs
-* API-Based Automation
+* API-Based Applications
 * Processing API Data
 * Converting API Data into Python Objects
+* API Authentication
+* Working with API Keys
+* Integrating Multiple APIs
+
+### 📱 Messaging & Notifications
+
+* Twilio API
+* Twilio WhatsApp Messaging
+* Sending WhatsApp Messages with Python
+* Twilio Client
+* Account SID
+* Authentication Tokens
+* Message SID
+* Message Status
+* Weather-Based Notifications
+
+### 🔐 Environment Variables & Security
+
+* Environment Variables
+* Python `os` Module
+* `os.environ.get()`
+* Storing API Credentials Outside Source Code
+* API Key Management
+* Separating Configuration from Code
+* Basic Credential Security
 
 ### 🎮 Game Development
 
@@ -192,6 +218,8 @@ These projects showcase my journey in Python programming, covering **Python fund
 * `time`
 * `requests`
 * `csv`
+* `os`
+* `twilio`
 * Git
 * GitHub
 
@@ -199,7 +227,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 🌐 APIs Used
 
-Through the projects completed so far, I have started working with external APIs and learning how Python applications can retrieve, process, and use real-world data.
+Through the projects completed so far, I have worked with external APIs and learned how Python applications can retrieve, process, and use real-world data.
 
 ### ISS Location API
 
@@ -215,6 +243,18 @@ Used in the **Quiz App API** to retrieve True/False quiz questions in JSON forma
 
 The application processes the API response and converts the retrieved question data into Python objects that are used by the quiz application.
 
+### OpenWeatherMap API
+
+Used in the **Rain Alert** project to retrieve weather forecast information for a specified latitude and longitude.
+
+The application processes the returned JSON data and checks weather condition codes to determine whether rain is expected.
+
+### Twilio API
+
+Used in the **Rain Alert** project to send a WhatsApp notification when rain is expected.
+
+The application authenticates with Twilio using an Account SID and Authentication Token and sends a WhatsApp message through the Twilio service.
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -229,6 +269,10 @@ The application processes the API response and converts the retrieved question d
 * **CSV**
 * **REST APIs**
 * **Open Trivia Database API**
+* **OpenWeatherMap API**
+* **Twilio API**
+* **WhatsApp Messaging**
+* **Environment Variables**
 * **SMTP**
 * **Pyperclip**
 * **Git**
@@ -251,6 +295,9 @@ The application processes the API response and converts the retrieved question d
 * Process JSON responses from APIs.
 * Convert API data into Python objects.
 * Build applications that use real-world API data.
+* Work with API authentication and API keys.
+* Learn how to send WhatsApp notifications using Twilio.
+* Work with environment variables to protect sensitive credentials.
 * Automate repetitive tasks using Python.
 * Work with email automation and SMTP.
 * Build applications that maintain data between sessions.
