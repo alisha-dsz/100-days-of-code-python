@@ -2,7 +2,7 @@
 
 This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
-These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, messaging APIs, environment variables, and more**.
+These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, stock market APIs, news APIs, messaging APIs, email automation, environment variables, and more**.
 
 ---
 
@@ -44,6 +44,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 | Day 33    | ISS Overhead Notifier                 | ✅          |
 | Day 34    | Quiz App API                          | ✅          |
 | Day 35    | Rain Alert                            | ✅          |
+| Day 36    | Stock News Alert                      | ✅          |
 
 > 🚀 This repository will be continuously updated as I progress through the **100 Days of Code** bootcamp.
 
@@ -51,9 +52,9 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📊 Progress
 
-* ✅ **Projects Completed:** 35
-* 📅 **Current Progress:** Day 35 / 100
-* 📈 **Completion:** 35%
+* ✅ **Projects Completed:** 36
+* 📅 **Current Progress:** Day 36 / 100
+* 📈 **Completion:** 36%
 
 ---
 
@@ -144,6 +145,10 @@ These projects showcase my journey in Python programming, covering **Python fund
 * API Authentication
 * Working with API Keys
 * Integrating Multiple APIs
+* Stock Market API Integration
+* News API Integration
+* Processing Financial Data
+* Retrieving Company News
 
 ### 📱 Messaging & Notifications
 
@@ -156,6 +161,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 * Message SID
 * Message Status
 * Weather-Based Notifications
+* Event-Based Notifications
 
 ### 🔐 Environment Variables & Security
 
@@ -166,6 +172,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 * API Key Management
 * Separating Configuration from Code
 * Basic Credential Security
+* Protecting Authentication Credentials
 
 ### 🎮 Game Development
 
@@ -194,6 +201,22 @@ These projects showcase my journey in Python programming, covering **Python fund
 * `datetime`
 * `time.sleep()`
 * Continuous Monitoring
+* Stock Price Alerts
+* News Notifications
+
+### 📈 Financial Data & News
+
+* Stock Market Data
+* Stock Price Monitoring
+* Stock Price Comparison
+* Closing Stock Prices
+* Percentage Change Calculation
+* Significant Price Movement Detection
+* Alpha Vantage API
+* News API
+* Company News Retrieval
+* Financial News Notifications
+* Automated Stock Alerts
 
 ### 🧱 Object-Oriented Programming
 
@@ -255,6 +278,18 @@ Used in the **Rain Alert** project to send a WhatsApp notification when rain is 
 
 The application authenticates with Twilio using an Account SID and Authentication Token and sends a WhatsApp message through the Twilio service.
 
+### Alpha Vantage API
+
+Used in the **Stock News Alert** project to retrieve daily stock market data.
+
+The application retrieves the daily closing prices of a specified stock and compares recent prices to calculate the percentage change.
+
+### News API
+
+Used in the **Stock News Alert** project to retrieve news articles related to a company.
+
+When a stock price changes significantly, the application requests company-related news and retrieves the first three articles.
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -270,10 +305,13 @@ The application authenticates with Twilio using an Account SID and Authenticatio
 * **REST APIs**
 * **Open Trivia Database API**
 * **OpenWeatherMap API**
+* **Alpha Vantage API**
+* **News API**
 * **Twilio API**
 * **WhatsApp Messaging**
-* **Environment Variables**
 * **SMTP**
+* **Gmail SMTP**
+* **Environment Variables**
 * **Pyperclip**
 * **Git**
 * **GitHub**
@@ -300,6 +338,10 @@ The application authenticates with Twilio using an Account SID and Authenticatio
 * Work with environment variables to protect sensitive credentials.
 * Automate repetitive tasks using Python.
 * Work with email automation and SMTP.
+* Monitor stock market price movements using APIs.
+* Retrieve company-related financial news.
+* Combine multiple APIs within a single application.
+* Build event-based notification systems.
 * Build applications that maintain data between sessions.
 * Work with external Python libraries.
 * Improve problem-solving and logical thinking skills.
