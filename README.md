@@ -2,7 +2,7 @@
 
 This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
-These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, stock market APIs, news APIs, messaging APIs, email automation, environment variables, and more**.
+These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, REST APIs, habit tracking, stock market APIs, news APIs, messaging APIs, email automation, environment variables, and more**.
 
 ---
 
@@ -45,6 +45,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 | Day 34    | Quiz App API                          | ✅          |
 | Day 35    | Rain Alert                            | ✅          |
 | Day 36    | Stock News Alert                      | ✅          |
+| Day 37    | Habit Tracking with Pixela            | ✅          |
 
 > 🚀 This repository will be continuously updated as I progress through the **100 Days of Code** bootcamp.
 
@@ -52,9 +53,9 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📊 Progress
 
-* ✅ **Projects Completed:** 36
-* 📅 **Current Progress:** Day 36 / 100
-* 📈 **Completion:** 36%
+- ✅ **Projects Completed:** 37
+- 📅 **Current Progress:** Day 37 / 100
+- 📈 **Completion:** 37%
 
 ---
 
@@ -62,195 +63,222 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ### 🐍 Python Programming
 
-* Python Fundamentals
-* Variables & Data Types
-* Conditional Statements
-* Loops
-* Functions & Modules
-* Lists, Tuples & Dictionaries
-* List & Dictionary Comprehensions
-* String Manipulation
-* Randomization
-* Object-Oriented Programming (OOP)
-* Classes & Objects
-* Constructors & Methods
-* Event-Driven Programming
-* Modular Programming
-* Basic Software Design
-* Problem Solving
-* Debugging
+- Python Fundamentals
+- Variables & Data Types
+- Conditional Statements
+- Loops
+- Functions & Modules
+- Lists, Tuples & Dictionaries
+- List & Dictionary Comprehensions
+- String Manipulation
+- Randomization
+- Object-Oriented Programming (OOP)
+- Classes & Objects
+- Constructors & Methods
+- Event-Driven Programming
+- Modular Programming
+- Basic Software Design
+- Problem Solving
+- Debugging
 
 ### 📁 Data & File Handling
 
-* File Handling
-* Reading & Writing Text Files
-* CSV Data Handling
-* JSON Data Handling
-* Pandas DataFrames
-* `pd.read_csv()`
-* `pd.DataFrame()`
-* `to_dict()`
-* `to_csv()`
-* `json.load()`
-* `json.dump()`
-* Data Persistence
-* Dictionaries for Structured Data
-* Exception Handling
-* `try`, `except`, `else`, and `finally`
-* `FileNotFoundError`
+- File Handling
+- Reading & Writing Text Files
+- CSV Data Handling
+- JSON Data Handling
+- Pandas DataFrames
+- `pd.read_csv()`
+- `pd.DataFrame()`
+- `to_dict()`
+- `to_csv()`
+- `json.load()`
+- `json.dump()`
+- Data Persistence
+- Dictionaries for Structured Data
+- Exception Handling
+- `try`, `except`, `else`, and `finally`
+- `FileNotFoundError`
 
 ### 🖥️ GUI Development
 
-* Tkinter GUI Development
-* Tkinter Widgets
-* Labels & Entry Fields
-* Buttons
-* Grid Layout Manager
-* Tkinter Canvas
-* Images with `PhotoImage`
-* Message Boxes
-* Event-Driven Programming
-* Widget Configuration
-* Timers & Countdown Logic
-* `window.after()`
-* `window.after_cancel()`
-* Handling User Input
-* Interactive GUI Applications
+- Tkinter GUI Development
+- Tkinter Widgets
+- Labels & Entry Fields
+- Buttons
+- Grid Layout Manager
+- Tkinter Canvas
+- Images with `PhotoImage`
+- Message Boxes
+- Event-Driven Programming
+- Widget Configuration
+- Timers & Countdown Logic
+- `window.after()`
+- `window.after_cancel()`
+- Handling User Input
+- Interactive GUI Applications
 
 ### 📊 Data Processing
 
-* Pandas
-* DataFrames
-* Reading CSV Files
-* Writing CSV Files
-* Converting DataFrames to Dictionaries
-* Working with Lists of Dictionaries
-* Data Filtering and Manipulation
-* Persistent CSV-Based Data
+- Pandas
+- DataFrames
+- Reading CSV Files
+- Writing CSV Files
+- Converting DataFrames to Dictionaries
+- Working with Lists of Dictionaries
+- Data Filtering and Manipulation
+- Persistent CSV-Based Data
 
 ### 🌐 API Integration
 
-* Working with REST APIs
-* HTTP GET Requests
-* Python `requests` Library
-* JSON API Responses
-* `response.json()`
-* `response.raise_for_status()`
-* API Query Parameters
-* Extracting Data from Nested JSON
-* Working with External APIs
-* API-Based Applications
-* Processing API Data
-* Converting API Data into Python Objects
-* API Authentication
-* Working with API Keys
-* Integrating Multiple APIs
-* Stock Market API Integration
-* News API Integration
-* Processing Financial Data
-* Retrieving Company News
+- Working with REST APIs
+- HTTP GET Requests
+- HTTP POST Requests
+- HTTP PUT Requests
+- HTTP DELETE Requests
+- Python `requests` Library
+- JSON API Responses
+- `response.json()`
+- `response.raise_for_status()`
+- API Query Parameters
+- API Request Bodies
+- API Request Headers
+- Extracting Data from Nested JSON
+- Working with External APIs
+- API-Based Applications
+- Processing API Data
+- Converting API Data into Python Objects
+- API Authentication
+- Authentication Headers
+- Working with API Keys & Tokens
+- Integrating Multiple APIs
+- Stock Market API Integration
+- News API Integration
+- Pixela API Integration
+- Habit Tracking with APIs
+- Processing Financial Data
+- Retrieving Company News
+- CRUD Operations with APIs
 
 ### 📱 Messaging & Notifications
 
-* Twilio API
-* Twilio WhatsApp Messaging
-* Sending WhatsApp Messages with Python
-* Twilio Client
-* Account SID
-* Authentication Tokens
-* Message SID
-* Message Status
-* Weather-Based Notifications
-* Event-Based Notifications
+- Twilio API
+- Twilio WhatsApp Messaging
+- Sending WhatsApp Messages with Python
+- Twilio Client
+- Account SID
+- Authentication Tokens
+- Message SID
+- Message Status
+- Weather-Based Notifications
+- Event-Based Notifications
 
 ### 🔐 Environment Variables & Security
 
-* Environment Variables
-* Python `os` Module
-* `os.environ.get()`
-* Storing API Credentials Outside Source Code
-* API Key Management
-* Separating Configuration from Code
-* Basic Credential Security
-* Protecting Authentication Credentials
+- Environment Variables
+- Python `os` Module
+- `os.environ.get()`
+- Storing API Credentials Outside Source Code
+- API Key Management
+- API Token Management
+- Separating Configuration from Code
+- Basic Credential Security
+- Protecting Authentication Credentials
 
 ### 🎮 Game Development
 
-* Turtle Graphics
-* Game Logic
-* Collision Detection
-* Keyboard Controls
-* Score Tracking
-* Game States
-* Randomized Gameplay
-* Event-Driven Game Mechanics
+- Turtle Graphics
+- Game Logic
+- Collision Detection
+- Keyboard Controls
+- Score Tracking
+- Game States
+- Randomized Gameplay
+- Event-Driven Game Mechanics
 
 ### 📧 Automation & Email
 
-* Automated Email Sending
-* SMTP
-* Gmail SMTP
-* Email Automation with Python
-* `smtplib`
-* `starttls()`
-* `login()`
-* `sendmail()`
-* Email Templates
-* Date-Based Automation
-* Time-Based Automation
-* `datetime`
-* `time.sleep()`
-* Continuous Monitoring
-* Stock Price Alerts
-* News Notifications
+- Automated Email Sending
+- SMTP
+- Gmail SMTP
+- Email Automation with Python
+- `smtplib`
+- `starttls()`
+- `login()`
+- `sendmail()`
+- Email Templates
+- Date-Based Automation
+- Time-Based Automation
+- `datetime`
+- `time.sleep()`
+- Continuous Monitoring
+- Stock Price Alerts
+- News Notifications
 
 ### 📈 Financial Data & News
 
-* Stock Market Data
-* Stock Price Monitoring
-* Stock Price Comparison
-* Closing Stock Prices
-* Percentage Change Calculation
-* Significant Price Movement Detection
-* Alpha Vantage API
-* News API
-* Company News Retrieval
-* Financial News Notifications
-* Automated Stock Alerts
+- Stock Market Data
+- Stock Price Monitoring
+- Stock Price Comparison
+- Closing Stock Prices
+- Percentage Change Calculation
+- Significant Price Movement Detection
+- Alpha Vantage API
+- News API
+- Company News Retrieval
+- Financial News Notifications
+- Automated Stock Alerts
+
+### 📊 Habit Tracking & Data Visualization
+
+- Habit Tracking
+- Pixela API
+- Creating Pixela Users
+- Creating Pixela Graphs
+- Recording Daily Habit Values
+- Pixel Creation
+- Pixel Updating
+- Pixel Deletion
+- Date-Based Data Tracking
+- `datetime`
+- `strftime()`
+- API Authentication Headers
+- CRUD Operations
+- Visualizing Habit Progress
 
 ### 🧱 Object-Oriented Programming
 
-* Classes
-* Objects
-* Constructors
-* Instance Attributes
-* Methods
-* Encapsulation of Data and Logic
-* Creating Objects from API Data
-* Separating Application Responsibilities
+- Classes
+- Objects
+- Constructors
+- Instance Attributes
+- Methods
+- Encapsulation of Data and Logic
+- Creating Objects from API Data
+- Separating Application Responsibilities
 
 ### 🔧 Libraries & Tools
 
-* `random`
-* `json`
-* `pyperclip`
-* `pandas`
-* `tkinter`
-* `smtplib`
-* `datetime`
-* `time`
-* `requests`
-* `csv`
-* `os`
-* `twilio`
-* Git
-* GitHub
+- `random`
+- `json`
+- `pyperclip`
+- `pandas`
+- `tkinter`
+- `smtplib`
+- `datetime`
+- `time`
+- `requests`
+- `csv`
+- `os`
+- `twilio`
+- Git
+- GitHub
 
 ---
 
 ## 🌐 APIs Used
 
-Through the projects completed so far, I have worked with external APIs and learned how Python applications can retrieve, process, and use real-world data.
+Through the projects completed so far, I have worked with external APIs and learned how Python applications can retrieve, process, store, and use real-world data.
 
 ### ISS Location API
 
@@ -290,63 +318,81 @@ Used in the **Stock News Alert** project to retrieve news articles related to a 
 
 When a stock price changes significantly, the application requests company-related news and retrieves the first three articles.
 
+### Pixela API
+
+Used in the **Habit Tracking with Pixela** project to create and manage a graphical habit tracker.
+
+The application uses the Pixela API to:
+
+- Create a Pixela user.
+- Create a habit tracking graph.
+- Record daily habit values as pixels.
+- Update existing pixel values.
+- Delete pixel records.
+- Visualize habit progress.
+
 ---
 
 ## 🛠️ Technologies & Tools
 
-* **Python**
-* **Object-Oriented Programming**
-* **Tkinter**
-* **Turtle Graphics**
-* **Pandas**
-* **Requests**
-* **JSON**
-* **CSV**
-* **REST APIs**
-* **Open Trivia Database API**
-* **OpenWeatherMap API**
-* **Alpha Vantage API**
-* **News API**
-* **Twilio API**
-* **WhatsApp Messaging**
-* **SMTP**
-* **Gmail SMTP**
-* **Environment Variables**
-* **Pyperclip**
-* **Git**
-* **GitHub**
+- **Python**
+- **Object-Oriented Programming**
+- **Tkinter**
+- **Turtle Graphics**
+- **Pandas**
+- **Requests**
+- **JSON**
+- **CSV**
+- **REST APIs**
+- **Open Trivia Database API**
+- **OpenWeatherMap API**
+- **Alpha Vantage API**
+- **News API**
+- **Pixela API**
+- **Twilio API**
+- **WhatsApp Messaging**
+- **SMTP**
+- **Gmail SMTP**
+- **Environment Variables**
+- **Pyperclip**
+- **Git**
+- **GitHub**
 
 ---
 
 ## 🎯 Objective
 
-* Strengthen Python programming skills through hands-on projects.
-* Apply programming concepts by building practical applications.
-* Develop a strong understanding of Python and its libraries.
-* Practice Object-Oriented Programming.
-* Practice GUI development and event-driven programming.
-* Learn file handling and persistent data storage.
-* Work with JSON and CSV for structured data storage.
-* Learn and practice Pandas for data processing.
-* Practice exception handling and debugging.
-* Learn how to interact with external APIs.
-* Process JSON responses from APIs.
-* Convert API data into Python objects.
-* Build applications that use real-world API data.
-* Work with API authentication and API keys.
-* Learn how to send WhatsApp notifications using Twilio.
-* Work with environment variables to protect sensitive credentials.
-* Automate repetitive tasks using Python.
-* Work with email automation and SMTP.
-* Monitor stock market price movements using APIs.
-* Retrieve company-related financial news.
-* Combine multiple APIs within a single application.
-* Build event-based notification systems.
-* Build applications that maintain data between sessions.
-* Work with external Python libraries.
-* Improve problem-solving and logical thinking skills.
-* Build a portfolio that demonstrates consistent learning and practical experience.
-* Track my progress throughout the **100 Days of Code** bootcamp.
+- Strengthen Python programming skills through hands-on projects.
+- Apply programming concepts by building practical applications.
+- Develop a strong understanding of Python and its libraries.
+- Practice Object-Oriented Programming.
+- Practice GUI development and event-driven programming.
+- Learn file handling and persistent data storage.
+- Work with JSON and CSV for structured data storage.
+- Learn and practice Pandas for data processing.
+- Practice exception handling and debugging.
+- Learn how to interact with external APIs.
+- Process JSON responses from APIs.
+- Convert API data into Python objects.
+- Build applications that use real-world API data.
+- Work with API authentication and API keys.
+- Learn how to send WhatsApp notifications using Twilio.
+- Work with environment variables to protect sensitive credentials.
+- Automate repetitive tasks using Python.
+- Work with email automation and SMTP.
+- Monitor stock market price movements using APIs.
+- Retrieve company-related financial news.
+- Combine multiple APIs within a single application.
+- Build event-based notification systems.
+- Build applications that maintain data between sessions.
+- Track personal habits using an external API.
+- Understand CRUD operations through API requests.
+- Work with HTTP methods such as GET, POST, PUT, and DELETE.
+- Use date-based data tracking and visualization.
+- Work with external Python libraries.
+- Improve problem-solving and logical thinking skills.
+- Build a portfolio that demonstrates consistent learning and practical experience.
+- Track my progress throughout the **100 Days of Code** bootcamp.
 
 ---
 
