@@ -1,9 +1,9 @@
 import requests
 from datetime import datetime
 
-TOKEN = "dbdhcad4bbbd3hdj"
-USERNAME = "alimardsouza"
-GRAPH_ID = "maridsz695"
+TOKEN = "dbdhcajnjj"
+USERNAME = "msfluffy"
+GRAPH_ID = "msfluffy695"
 date = "20261003"
 delete_date = "20261004"
 # Create a user
