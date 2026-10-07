@@ -2,7 +2,7 @@
 
 This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
-These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, REST APIs, habit tracking, stock market APIs, news APIs, messaging APIs, email automation, environment variables, and more**.
+These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, REST APIs, habit tracking, exercise tracking, Google Sheets integration, stock market APIs, news APIs, messaging APIs, email automation, environment variables, API authentication, and more**.
 
 ---
 
@@ -46,6 +46,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 | Day 35    | Rain Alert                            | ✅          |
 | Day 36    | Stock News Alert                      | ✅          |
 | Day 37    | Habit Tracking with Pixela            | ✅          |
+| Day 38    | Exercise Tracking with Google Sheets       | ✅          |
 
 > 🚀 This repository will be continuously updated as I progress through the **100 Days of Code** bootcamp.
 
@@ -53,9 +54,9 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📊 Progress
 
-- ✅ **Projects Completed:** 37
-- 📅 **Current Progress:** Day 37 / 100
-- 📈 **Completion:** 37%
+- ✅ **Projects Completed:** 38
+- 📅 **Current Progress:** Day 38 / 100
+- 📈 **Completion:** 38%
 
 ---
 
@@ -150,14 +151,22 @@ These projects showcase my journey in Python programming, covering **Python fund
 - Converting API Data into Python Objects
 - API Authentication
 - Authentication Headers
+- Bearer Token Authentication
 - Working with API Keys & Tokens
+- Environment-Based API Credentials
 - Integrating Multiple APIs
 - Stock Market API Integration
 - News API Integration
 - Pixela API Integration
+- Nutritionix API Integration
+- Sheety API Integration
 - Habit Tracking with APIs
+- Exercise Tracking with APIs
+- Google Sheets API Integration
 - Processing Financial Data
+- Processing Fitness Data
 - Retrieving Company News
+- Storing API Data in Google Sheets
 - CRUD Operations with APIs
 
 ### 📱 Messaging & Notifications
@@ -181,7 +190,10 @@ These projects showcase my journey in Python programming, covering **Python fund
 - Storing API Credentials Outside Source Code
 - API Key Management
 - API Token Management
+- Bearer Token Management
 - Separating Configuration from Code
+- `.env` Files
+- `.gitignore`
 - Basic Credential Security
 - Protecting Authentication Credentials
 
@@ -245,6 +257,29 @@ These projects showcase my journey in Python programming, covering **Python fund
 - API Authentication Headers
 - CRUD Operations
 - Visualizing Habit Progress
+
+### 🏃 Exercise Tracking & Google Sheets
+
+- Exercise Tracking
+- Nutritionix API
+- Natural Language Exercise Input
+- Exercise Data Processing
+- Calorie Calculation
+- Exercise Duration Tracking
+- Sheety API
+- Google Sheets Integration
+- Sending Data to Google Sheets
+- Adding New Rows to Google Sheets
+- JSON Request Bodies
+- API Authentication
+- Bearer Token Authentication
+- HTTP Request Headers
+- Environment Variables
+- API Key Management
+- Processing Nested JSON Responses
+- Date & Time Tracking
+- Automated Fitness Data Storage
+- Integrating Multiple APIs
 
 ### 🧱 Object-Oriented Programming
 
@@ -331,6 +366,33 @@ The application uses the Pixela API to:
 - Delete pixel records.
 - Visualize habit progress.
 
+### Nutritionix API
+
+Used in the **Exercise Tracking Google Sheets** project to process natural language exercise descriptions.
+
+The application sends the user's exercise information to Nutritionix and retrieves details such as:
+
+- Exercise name.
+- Exercise duration.
+- Calories burned.
+
+The API uses the user's exercise description and physical information to calculate the estimated calories burned.
+
+### Sheety API
+
+Used in the **Exercise Tracking Google Sheets** project to connect the Python application with Google Sheets.
+
+The application sends the exercise information received from Nutritionix to Sheety, which adds the data as a new row in the connected Google Sheet.
+
+The application uses the Sheety API to:
+
+- Send exercise data to Google Sheets.
+- Add new exercise records.
+- Store exercise duration.
+- Store calories burned.
+- Store exercise date and time.
+- Authenticate requests using a Bearer token.
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -349,11 +411,16 @@ The application uses the Pixela API to:
 - **Alpha Vantage API**
 - **News API**
 - **Pixela API**
+- **Nutritionix API**
+- **Sheety API**
 - **Twilio API**
+- **Google Sheets**
 - **WhatsApp Messaging**
 - **SMTP**
 - **Gmail SMTP**
 - **Environment Variables**
+- **`.env`**
+- **`.gitignore`**
 - **Pyperclip**
 - **Git**
 - **GitHub**
@@ -386,6 +453,8 @@ The application uses the Pixela API to:
 - Build event-based notification systems.
 - Build applications that maintain data between sessions.
 - Track personal habits using an external API.
+- Track exercise information using an external API.
+- Store API-generated data in Google Sheets.
 - Understand CRUD operations through API requests.
 - Work with HTTP methods such as GET, POST, PUT, and DELETE.
 - Use date-based data tracking and visualization.
