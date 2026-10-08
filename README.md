@@ -2,7 +2,7 @@
 
 This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
-These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, REST APIs, habit tracking, exercise tracking, Google Sheets integration, stock market APIs, news APIs, messaging APIs, email automation, environment variables, API authentication, and more**.
+These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, REST APIs, habit tracking, exercise tracking, Google Sheets integration, stock market APIs, news APIs, messaging APIs, email automation, environment variables, API authentication, HTML basics, web development, and more**.
 
 ---
 
@@ -46,7 +46,12 @@ These projects showcase my journey in Python programming, covering **Python fund
 | Day 35    | Rain Alert                            | ✅          |
 | Day 36    | Stock News Alert                      | ✅          |
 | Day 37    | Habit Tracking with Pixela            | ✅          |
-| Day 38    | Exercise Tracking with Google Sheets       | ✅          |
+| Day 38    | Exercise Tracking with Google Sheets  | ✅          |
+| Day 39    | Pending                               | ⏳          |
+| Day 40    | Pending                               | ⏳          |
+| Day 41    | Movie Ranking Project                 | ✅          |
+
+---
 
 > 🚀 This repository will be continuously updated as I progress through the **100 Days of Code** bootcamp.
 
@@ -54,9 +59,10 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📊 Progress
 
-- ✅ **Projects Completed:** 38
-- 📅 **Current Progress:** Day 38 / 100
-- 📈 **Completion:** 38%
+- ✅ **Projects Completed:** 39
+- ⏳ **Projects Pending:** 2
+- 📅 **Current Progress:** Day 41 / 100
+- 📈 **Completion:** 39%
 
 ---
 
@@ -118,6 +124,24 @@ These projects showcase my journey in Python programming, covering **Python fund
 - `window.after_cancel()`
 - Handling User Input
 - Interactive GUI Applications
+
+### 🌐 HTML & Web Development
+
+- HTML Basics
+- HTML Document Structure
+- `<!doctype html>`
+- `<html>`
+- `<head>`
+- `<title>`
+- `<body>`
+- Heading Elements
+- `<h1>`
+- `<h2>`
+- `<h3>`
+- Paragraphs with `<p>`
+- Horizontal Lines with `<hr />`
+- Basic Webpage Structure
+- Creating Simple Webpages
 
 ### 📊 Data Processing
 
@@ -308,6 +332,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 - `twilio`
 - Git
 - GitHub
+- HTML
 
 ---
 
@@ -398,6 +423,7 @@ The application uses the Sheety API to:
 ## 🛠️ Technologies & Tools
 
 - **Python**
+- **HTML**
 - **Object-Oriented Programming**
 - **Tkinter**
 - **Turtle Graphics**
@@ -459,6 +485,8 @@ The application uses the Sheety API to:
 - Work with HTTP methods such as GET, POST, PUT, and DELETE.
 - Use date-based data tracking and visualization.
 - Work with external Python libraries.
+- Learn the fundamentals of HTML and webpage structure.
+- Build simple webpages using HTML.
 - Improve problem-solving and logical thinking skills.
 - Build a portfolio that demonstrates consistent learning and practical experience.
 - Track my progress throughout the **100 Days of Code** bootcamp.
@@ -470,5 +498,7 @@ The application uses the Sheety API to:
 This repository documents my learning journey through the **100 Days of Code: The Complete Python Pro Bootcamp**.
 
 The projects are based on concepts taught in the course, with additional experimentation, refactoring, and improvements where applicable.
+
+**Day 39 and Day 40 are currently pending and will be completed as I continue progressing through the course.**
 
 ⭐ If you found this repository helpful or interesting, feel free to star it!
