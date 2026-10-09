@@ -50,6 +50,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 | Day 39    | Pending                               | ⏳          |
 | Day 40    | Pending                               | ⏳          |
 | Day 41    | Movie Ranking Project                 | ✅          |
+| Day 42    | Birthday Invite Project               | ✅          |
 
 ---
 
@@ -59,10 +60,10 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📊 Progress
 
-- ✅ **Projects Completed:** 39
+- ✅ **Projects Completed:** 40
 - ⏳ **Projects Pending:** 2
-- 📅 **Current Progress:** Day 41 / 100
-- 📈 **Completion:** 39%
+- 📅 **Current Progress:** Day 42 / 100
+- 📈 **Completion:** 40%
 
 ---
 
@@ -142,6 +143,10 @@ These projects showcase my journey in Python programming, covering **Python fund
 - Horizontal Lines with `<hr />`
 - Basic Webpage Structure
 - Creating Simple Webpages
+- HTML Birthday Invitation Page
+- HTML Elements and Tags
+- HTML Element Nesting
+- Using Headings and Paragraphs to Structure Content
 
 ### 📊 Data Processing
 
@@ -487,6 +492,8 @@ The application uses the Sheety API to:
 - Work with external Python libraries.
 - Learn the fundamentals of HTML and webpage structure.
 - Build simple webpages using HTML.
+- Create a birthday invitation webpage using HTML.
+- Understand the use of HTML elements, tags, and nested structures.
 - Improve problem-solving and logical thinking skills.
 - Build a portfolio that demonstrates consistent learning and practical experience.
 - Track my progress throughout the **100 Days of Code** bootcamp.
