@@ -8,49 +8,50 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📂 Projects
 
-| **Day**   | **Project**                           | **Status** |
-| --------- | ------------------------------------- | ---------- |
-| Day 1     | Band Name Generator                   | ✅          |
-| Day 2     | Tip Calculator                        | ✅          |
-| Day 3     | Treasure Island                       | ✅          |
-| Day 4     | Rock Paper Scissors                   | ✅          |
-| Day 5     | Password Generator                    | ✅          |
-| Day 6     | Escaping the Maze (Reeborg's World)   | ✅          |
-| Day 7     | Hangman                               | ✅          |
-| Day 8     | Caesar Cipher                         | ✅          |
-| Day 9     | Secret Auction Program                | ✅          |
-| Day 10    | Calculator Project                    | ✅          |
-| Day 11    | BlackJack Capstone Project            | ✅          |
-| Day 12    | Number Guessing Game                  | ✅          |
-| Day 13    | Debugging                             | ✅          |
-| Day 14    | Higher Lower Game                     | ✅          |
-| Day 15    | Coffee Machine                        | ✅          |
-| Day 16    | Coffee Machine (OOP)                  | ✅          |
-| Day 17    | Quiz Game                             | ✅          |
-| Day 18    | Hirst Spot Painting                   | ✅          |
-| Day 19    | Turtle Race                           | ✅          |
-| Day 20–21 | Snake Game                            | ✅          |
-| Day 22    | Pong Game                             | ✅          |
-| Day 23    | Turtle Crossing Game Capstone Project | ✅          |
-| Day 24    | Mail Merger Project                   | ✅          |
-| Day 25    | U.S. States Game                      | ✅          |
-| Day 26    | NATO Phonetic Alphabet Project        | ✅          |
-| Day 27    | Mile to Kilometer Converter           | ✅          |
-| Day 28    | Pomodoro Timer                        | ✅          |
-| Day 29    | Password Manager                      | ✅          |
-| Day 30    | Password Manager with JSON Storage    | ✅          |
-| Day 31    | Flash Card App Capstone Project       | ✅          |
-| Day 32    | Automated Birthday Wisher             | ✅          |
-| Day 33    | ISS Overhead Notifier                 | ✅          |
-| Day 34    | Quiz App API                          | ✅          |
-| Day 35    | Rain Alert                            | ✅          |
-| Day 36    | Stock News Alert                      | ✅          |
-| Day 37    | Habit Tracking with Pixela            | ✅          |
-| Day 38    | Exercise Tracking with Google Sheets  | ✅          |
-| Day 39    | Pending                               | ⏳          |
-| Day 40    | Pending                               | ⏳          |
-| Day 41    | Movie Ranking Project                 | ✅          |
-| Day 42    | Birthday Invite Project               | ✅          |
+| **Day** | **Project** | **Status** |
+| --- | --- | --- |
+| Day 1 | Band Name Generator | ✅ |
+| Day 2 | Tip Calculator | ✅ |
+| Day 3 | Treasure Island | ✅ |
+| Day 4 | Rock Paper Scissors | ✅ |
+| Day 5 | Password Generator | ✅ |
+| Day 6 | Escaping the Maze (Reeborg's World) | ✅ |
+| Day 7 | Hangman | ✅ |
+| Day 8 | Caesar Cipher | ✅ |
+| Day 9 | Secret Auction Program | ✅ |
+| Day 10 | Calculator Project | ✅ |
+| Day 11 | BlackJack Capstone Project | ✅ |
+| Day 12 | Number Guessing Game | ✅ |
+| Day 13 | Debugging | ✅ |
+| Day 14 | Higher Lower Game | ✅ |
+| Day 15 | Coffee Machine | ✅ |
+| Day 16 | Coffee Machine (OOP) | ✅ |
+| Day 17 | Quiz Game | ✅ |
+| Day 18 | Hirst Spot Painting | ✅ |
+| Day 19 | Turtle Race | ✅ |
+| Day 20–21 | Snake Game | ✅ |
+| Day 22 | Pong Game | ✅ |
+| Day 23 | Turtle Crossing Game Capstone Project | ✅ |
+| Day 24 | Mail Merger Project | ✅ |
+| Day 25 | U.S. States Game | ✅ |
+| Day 26 | NATO Phonetic Alphabet Project | ✅ |
+| Day 27 | Mile to Kilometer Converter | ✅ |
+| Day 28 | Pomodoro Timer | ✅ |
+| Day 29 | Password Manager | ✅ |
+| Day 30 | Password Manager with JSON Storage | ✅ |
+| Day 31 | Flash Card App Capstone Project | ✅ |
+| Day 32 | Automated Birthday Wisher | ✅ |
+| Day 33 | ISS Overhead Notifier | ✅ |
+| Day 34 | Quiz App API | ✅ |
+| Day 35 | Rain Alert | ✅ |
+| Day 36 | Stock News Alert | ✅ |
+| Day 37 | Habit Tracking with Pixela | ✅ |
+| Day 38 | Exercise Tracking with Google Sheets | ✅ |
+| Day 39 | Pending | ⏳ |
+| Day 40 | Pending | ⏳ |
+| Day 41 | Movie Ranking Project | ✅ |
+| Day 42 | Birthday Invite Project | ✅ |
+| Day 43 | Spanish Vocabulary Project | ✅ |
 
 ---
 
@@ -60,10 +61,10 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📊 Progress
 
-- ✅ **Projects Completed:** 40
+- ✅ **Projects Completed:** 41
 - ⏳ **Projects Pending:** 2
-- 📅 **Current Progress:** Day 42 / 100
-- 📈 **Completion:** 40%
+- 📅 **Current Progress:** Day 43 / 100
+- 📈 **Completion:** 41%
 
 ---
 
@@ -141,12 +142,21 @@ These projects showcase my journey in Python programming, covering **Python fund
 - `<h3>`
 - Paragraphs with `<p>`
 - Horizontal Lines with `<hr />`
+- HTML Image Elements with `<img>`
+- Image Paths with `src`
+- Alternative Text with `alt`
+- Linking External CSS Stylesheets
+- CSS Basics
+- HTML Classes and IDs
+- HTML Element Nesting
 - Basic Webpage Structure
 - Creating Simple Webpages
+- HTML Movie Ranking Page
 - HTML Birthday Invitation Page
-- HTML Elements and Tags
-- HTML Element Nesting
-- Using Headings and Paragraphs to Structure Content
+- Spanish Vocabulary Webpage
+- Organizing Images in Folders
+- Using Headings and Images to Structure Content
+- Understanding How HTML and CSS Work Together
 
 ### 📊 Data Processing
 
@@ -338,6 +348,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 - Git
 - GitHub
 - HTML
+- CSS
 
 ---
 
@@ -429,6 +440,7 @@ The application uses the Sheety API to:
 
 - **Python**
 - **HTML**
+- **CSS**
 - **Object-Oriented Programming**
 - **Tkinter**
 - **Turtle Graphics**
@@ -492,8 +504,14 @@ The application uses the Sheety API to:
 - Work with external Python libraries.
 - Learn the fundamentals of HTML and webpage structure.
 - Build simple webpages using HTML.
-- Create a birthday invitation webpage using HTML.
-- Understand the use of HTML elements, tags, and nested structures.
+- Create a movie ranking webpage.
+- Create a birthday invitation webpage.
+- Create a Spanish vocabulary webpage.
+- Understand HTML elements, attributes, tags, and nested structures.
+- Learn how to link external CSS stylesheets.
+- Understand the use of HTML classes and IDs.
+- Practice displaying images on webpages.
+- Understand how HTML and CSS work together.
 - Improve problem-solving and logical thinking skills.
 - Build a portfolio that demonstrates consistent learning and practical experience.
 - Track my progress throughout the **100 Days of Code** bootcamp.
