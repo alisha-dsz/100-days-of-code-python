@@ -2,7 +2,7 @@
 
 This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
-These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, REST APIs, habit tracking, exercise tracking, Google Sheets integration, stock market APIs, news APIs, messaging APIs, email automation, environment variables, API authentication, HTML basics, web development, and more**.
+These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, REST APIs, habit tracking, exercise tracking, Google Sheets integration, stock market APIs, news APIs, messaging APIs, email automation, environment variables, API authentication, HTML basics, CSS styling, web development, and more**.
 
 ---
 
@@ -52,6 +52,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 | Day 41 | Movie Ranking Project | ✅ |
 | Day 42 | Birthday Invite Project | ✅ |
 | Day 43 | Spanish Vocabulary Project | ✅ |
+| Day 44 | Motivational Meme Website | ✅ |
 
 ---
 
@@ -61,10 +62,10 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📊 Progress
 
-- ✅ **Projects Completed:** 41
+- ✅ **Projects Completed:** 42
 - ⏳ **Projects Pending:** 2
-- 📅 **Current Progress:** Day 43 / 100
-- 📈 **Completion:** 41%
+- 📅 **Current Progress:** Day 44 / 100
+- 📈 **Completion:** 42%
 
 ---
 
@@ -147,6 +148,14 @@ These projects showcase my journey in Python programming, covering **Python fund
 - Alternative Text with `alt`
 - Linking External CSS Stylesheets
 - CSS Basics
+- CSS Background Colors
+- CSS Text Colors
+- CSS Width and Margins
+- CSS Text Alignment
+- CSS Borders and Border Styling
+- CSS Text Transformation
+- CSS Font Families
+- Google Fonts Integration
 - HTML Classes and IDs
 - HTML Element Nesting
 - Basic Webpage Structure
@@ -154,9 +163,12 @@ These projects showcase my journey in Python programming, covering **Python fund
 - HTML Movie Ranking Page
 - HTML Birthday Invitation Page
 - Spanish Vocabulary Webpage
+- Motivational Meme Website
 - Organizing Images in Folders
-- Using Headings and Images to Structure Content
+- Using Headings, Paragraphs, and Images to Structure Content
 - Understanding How HTML and CSS Work Together
+- Styling Webpages Using External CSS
+- Creating Visually Appealing Web Content
 
 ### 📊 Data Processing
 
@@ -349,6 +361,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 - GitHub
 - HTML
 - CSS
+- Google Fonts
 
 ---
 
@@ -467,6 +480,7 @@ The application uses the Sheety API to:
 - **Pyperclip**
 - **Git**
 - **GitHub**
+- **Google Fonts**
 
 ---
 
@@ -507,10 +521,14 @@ The application uses the Sheety API to:
 - Create a movie ranking webpage.
 - Create a birthday invitation webpage.
 - Create a Spanish vocabulary webpage.
+- Create a motivational meme website using HTML and CSS.
 - Understand HTML elements, attributes, tags, and nested structures.
 - Learn how to link external CSS stylesheets.
 - Understand the use of HTML classes and IDs.
 - Practice displaying images on webpages.
+- Apply CSS colors, margins, borders, widths, and text alignment.
+- Learn how to transform text using CSS.
+- Integrate Google Fonts into a webpage.
 - Understand how HTML and CSS work together.
 - Improve problem-solving and logical thinking skills.
 - Build a portfolio that demonstrates consistent learning and practical experience.
