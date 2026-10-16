@@ -2,14 +2,14 @@
 
 This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
-These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, REST APIs, habit tracking, exercise tracking, Google Sheets integration, stock market APIs, news APIs, messaging APIs, email automation, environment variables, API authentication, HTML basics, CSS styling, web development, and more**.
+These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, REST APIs, habit tracking, exercise tracking, Google Sheets integration, stock market APIs, news APIs, messaging APIs, email automation, environment variables, API authentication, HTML basics, CSS styling, web development, web scraping with BeautifulSoup, HTML parsing, data extraction, list manipulation, and file writing**.
 
 ---
 
 ## 📂 Projects
 
 | **Day** | **Project** | **Status** |
-| --- | --- | --- |
+|---|---|---|
 | Day 1 | Band Name Generator | ✅ |
 | Day 2 | Tip Calculator | ✅ |
 | Day 3 | Treasure Island | ✅ |
@@ -53,6 +53,7 @@ These projects showcase my journey in Python programming, covering **Python fund
 | Day 42 | Birthday Invite Project | ✅ |
 | Day 43 | Spanish Vocabulary Project | ✅ |
 | Day 44 | Motivational Meme Website | ✅ |
+| Day 45 | 100 Movies to Watch — Movie Scraping Project | ✅ |
 
 ---
 
@@ -62,10 +63,10 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ## 📊 Progress
 
-- ✅ **Projects Completed:** 42
+- ✅ **Projects Completed:** 43
 - ⏳ **Projects Pending:** 2
-- 📅 **Current Progress:** Day 44 / 100
-- 📈 **Completion:** 42%
+- 📅 **Current Progress:** Day 45 / 100
+- 📈 **Completion:** 43%
 
 ---
 
@@ -109,6 +110,10 @@ These projects showcase my journey in Python programming, covering **Python fund
 - Exception Handling
 - `try`, `except`, `else`, and `finally`
 - `FileNotFoundError`
+- Writing Text Files with `open()`
+- Write Mode (`"w"`)
+- UTF-8 Encoding
+- Writing Data Line by Line
 
 ### 🖥️ GUI Development
 
@@ -127,6 +132,26 @@ These projects showcase my journey in Python programming, covering **Python fund
 - `window.after_cancel()`
 - Handling User Input
 - Interactive GUI Applications
+
+### 🕸️ Web Scraping & Data Extraction
+
+- Web Scraping with Python
+- `requests` Library
+- Sending HTTP GET Requests with `requests.get()`
+- Retrieving HTML Content using `response.text`
+- BeautifulSoup for HTML Parsing
+- `BeautifulSoup()` Constructor
+- HTML Parsing with `"html.parser"`
+- Finding HTML Elements using `find_all()`
+- Selecting HTML Elements by Tag Name and CSS Class
+- Extracting Text using `getText()`
+- List Comprehensions for Data Extraction
+- List Slicing with `[::-1]`
+- Reversing Lists
+- Scraping Movie Titles from Empire Online
+- Working with Archived Webpages
+- Saving Extracted Movie Titles to `movie.txt`
+- Writing Each Movie Title on a New Line
 
 ### 🌐 HTML & Web Development
 
@@ -357,6 +382,8 @@ These projects showcase my journey in Python programming, covering **Python fund
 - `csv`
 - `os`
 - `twilio`
+- `bs4`
+- BeautifulSoup
 - Git
 - GitHub
 - HTML
@@ -459,6 +486,7 @@ The application uses the Sheety API to:
 - **Turtle Graphics**
 - **Pandas**
 - **Requests**
+- **BeautifulSoup**
 - **JSON**
 - **CSV**
 - **REST APIs**
@@ -516,6 +544,13 @@ The application uses the Sheety API to:
 - Work with HTTP methods such as GET, POST, PUT, and DELETE.
 - Use date-based data tracking and visualization.
 - Work with external Python libraries.
+- Learn web scraping using Python and BeautifulSoup.
+- Send HTTP requests and retrieve webpage HTML content.
+- Parse HTML and extract movie titles using tags and CSS classes.
+- Practice list comprehensions to extract data efficiently.
+- Reverse a list using Python list slicing.
+- Write extracted movie titles to a text file using UTF-8 encoding.
+- Build a movie scraping project that saves a ranked movie list to `movie.txt`.
 - Learn the fundamentals of HTML and webpage structure.
 - Build simple webpages using HTML.
 - Create a movie ranking webpage.
@@ -542,6 +577,6 @@ This repository documents my learning journey through the **100 Days of Code: Th
 
 The projects are based on concepts taught in the course, with additional experimentation, refactoring, and improvements where applicable.
 
-**Day 39 and Day 40 are currently pending and will be completed as I continue progressing through the course.**
+**Day 39 and Day 40 are currently pending and will be completed as I continue progressing through the course. Day 45, the 100 Movies to Watch movie-scraping project, has been completed. The repository will continue to be updated as I progress.**
 
 ⭐ If you found this repository helpful or interesting, feel free to star it!
