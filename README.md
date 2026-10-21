@@ -1,72 +1,71 @@
-# 🐍 100 Days of Code: The Complete Python Pro Bootcamp Projects
+# 🐍 100 Days of Code: The Complete Python Pro Bootcamp
 
-This repository contains the projects I completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
+This repository contains the projects I have completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
-These projects showcase my journey in Python programming, covering **Python fundamentals, object-oriented programming (OOP), file handling, GUI development with Tkinter, game development, data handling with JSON and CSV, data analysis with Pandas, API integration, REST APIs, habit tracking, exercise tracking, Google Sheets integration, stock market APIs, news APIs, messaging APIs, email automation, environment variables, API authentication, HTML basics, CSS styling, web development, web scraping with BeautifulSoup, HTML parsing, data extraction, list manipulation, and file writing**.
+Through these hands-on projects, I am developing my skills in Python programming, object-oriented programming, GUI development, data handling, API integration, automation, HTML, CSS, web scraping, and working with external services.
 
 ---
 
 ## 📂 Projects
 
-| **Day** | **Project** | **Status** |
+| Day | Project | Status |
 |---|---|---|
-| Day 1 | Band Name Generator | ✅ |
-| Day 2 | Tip Calculator | ✅ |
-| Day 3 | Treasure Island | ✅ |
-| Day 4 | Rock Paper Scissors | ✅ |
-| Day 5 | Password Generator | ✅ |
-| Day 6 | Escaping the Maze (Reeborg's World) | ✅ |
-| Day 7 | Hangman | ✅ |
-| Day 8 | Caesar Cipher | ✅ |
-| Day 9 | Secret Auction Program | ✅ |
-| Day 10 | Calculator Project | ✅ |
-| Day 11 | BlackJack Capstone Project | ✅ |
-| Day 12 | Number Guessing Game | ✅ |
-| Day 13 | Debugging | ✅ |
-| Day 14 | Higher Lower Game | ✅ |
-| Day 15 | Coffee Machine | ✅ |
-| Day 16 | Coffee Machine (OOP) | ✅ |
-| Day 17 | Quiz Game | ✅ |
-| Day 18 | Hirst Spot Painting | ✅ |
-| Day 19 | Turtle Race | ✅ |
-| Day 20–21 | Snake Game | ✅ |
-| Day 22 | Pong Game | ✅ |
-| Day 23 | Turtle Crossing Game Capstone Project | ✅ |
-| Day 24 | Mail Merger Project | ✅ |
-| Day 25 | U.S. States Game | ✅ |
-| Day 26 | NATO Phonetic Alphabet Project | ✅ |
-| Day 27 | Mile to Kilometer Converter | ✅ |
-| Day 28 | Pomodoro Timer | ✅ |
-| Day 29 | Password Manager | ✅ |
-| Day 30 | Password Manager with JSON Storage | ✅ |
-| Day 31 | Flash Card App Capstone Project | ✅ |
-| Day 32 | Automated Birthday Wisher | ✅ |
-| Day 33 | ISS Overhead Notifier | ✅ |
-| Day 34 | Quiz App API | ✅ |
-| Day 35 | Rain Alert | ✅ |
-| Day 36 | Stock News Alert | ✅ |
-| Day 37 | Habit Tracking with Pixela | ✅ |
-| Day 38 | Exercise Tracking with Google Sheets | ✅ |
-| Day 39 | Pending | ⏳ |
-| Day 40 | Pending | ⏳ |
-| Day 41 | Movie Ranking Project | ✅ |
-| Day 42 | Birthday Invite Project | ✅ |
-| Day 43 | Spanish Vocabulary Project | ✅ |
-| Day 44 | Motivational Meme Website | ✅ |
-| Day 45 | 100 Movies to Watch — Movie Scraping Project | ✅ |
-
----
-
-> 🚀 This repository will be continuously updated as I progress through the **100 Days of Code** bootcamp.
+| Day 1 | Band Name Generator | ✅ Completed |
+| Day 2 | Tip Calculator | ✅ Completed |
+| Day 3 | Treasure Island | ✅ Completed |
+| Day 4 | Rock Paper Scissors | ✅ Completed |
+| Day 5 | Password Generator | ✅ Completed |
+| Day 6 | Escaping the Maze (Reeborg's World) | ✅ Completed |
+| Day 7 | Hangman | ✅ Completed |
+| Day 8 | Caesar Cipher | ✅ Completed |
+| Day 9 | Secret Auction Program | ✅ Completed |
+| Day 10 | Calculator Project | ✅ Completed |
+| Day 11 | Blackjack Capstone Project | ✅ Completed |
+| Day 12 | Number Guessing Game | ✅ Completed |
+| Day 13 | Debugging | ✅ Completed |
+| Day 14 | Higher Lower Game | ✅ Completed |
+| Day 15 | Coffee Machine | ✅ Completed |
+| Day 16 | Coffee Machine (OOP) | ✅ Completed |
+| Day 17 | Quiz Game | ✅ Completed |
+| Day 18 | Hirst Spot Painting | ✅ Completed |
+| Day 19 | Turtle Race | ✅ Completed |
+| Day 20–21 | Snake Game | ✅ Completed |
+| Day 22 | Pong Game | ✅ Completed |
+| Day 23 | Turtle Crossing Game Capstone Project | ✅ Completed |
+| Day 24 | Mail Merger Project | ✅ Completed |
+| Day 25 | U.S. States Game | ✅ Completed |
+| Day 26 | NATO Phonetic Alphabet Project | ✅ Completed |
+| Day 27 | Mile to Kilometer Converter | ✅ Completed |
+| Day 28 | Pomodoro Timer | ✅ Completed |
+| Day 29 | Password Manager | ✅ Completed |
+| Day 30 | Password Manager with JSON Storage | ✅ Completed |
+| Day 31 | Flash Card App Capstone Project | ✅ Completed |
+| Day 32 | Automated Birthday Wisher | ✅ Completed |
+| Day 33 | ISS Overhead Notifier | ✅ Completed |
+| Day 34 | Quiz App API | ✅ Completed |
+| Day 35 | Rain Alert | ✅ Completed |
+| Day 36 | Stock News Alert | ✅ Completed |
+| Day 37 | Habit Tracking with Pixela | ✅ Completed |
+| Day 38 | Exercise Tracking with Google Sheets | ✅ Completed |
+| Day 39 | Pending | ⏳ Pending |
+| Day 40 | Pending | ⏳ Pending |
+| Day 41 | Movie Ranking Project | ✅ Completed |
+| Day 42 | Birthday Invite Project | ✅ Completed |
+| Day 43 | Spanish Vocabulary Project | ✅ Completed |
+| Day 44 | Motivational Meme Website | ✅ Completed |
+| Day 45 | 100 Movies to Watch — Movie Scraping Project | ✅ Completed |
+| Day 46 | YouTube Music Playlist Project | ✅ Completed |
 
 ---
 
 ## 📊 Progress
 
-- ✅ **Projects Completed:** 43
+- ✅ **Projects Completed:** 44
 - ⏳ **Projects Pending:** 2
-- 📅 **Current Progress:** Day 45 / 100
-- 📈 **Completion:** 43%
+- 📅 **Current Progress:** Day 46 / 100
+- 📈 **Completed Project Percentage:** 44%
+
+> 🚀 This repository will be continuously updated as I progress through the bootcamp.
 
 ---
 
@@ -74,509 +73,302 @@ These projects showcase my journey in Python programming, covering **Python fund
 
 ### 🐍 Python Programming
 
-- Python Fundamentals
-- Variables & Data Types
-- Conditional Statements
-- Loops
-- Functions & Modules
-- Lists, Tuples & Dictionaries
-- List & Dictionary Comprehensions
-- String Manipulation
-- Randomization
+- Python fundamentals, variables, and data types
+- Conditional statements and loops
+- Functions and modules
+- Lists, tuples, dictionaries, and sets
+- List and dictionary comprehensions
+- String manipulation and slicing
+- Randomization and problem-solving
 - Object-Oriented Programming (OOP)
-- Classes & Objects
-- Constructors & Methods
-- Event-Driven Programming
-- Modular Programming
-- Basic Software Design
-- Problem Solving
-- Debugging
+- Classes, objects, constructors, and methods
+- Exception handling and debugging
+- Event-driven programming
+- Modular programming and code organization
 
-### 📁 Data & File Handling
+### 📁 Data and File Handling
 
-- File Handling
-- Reading & Writing Text Files
-- CSV Data Handling
-- JSON Data Handling
+- Reading and writing text files
+- CSV and JSON data handling
+- Data persistence
+- Working with dictionaries and lists of dictionaries
 - Pandas DataFrames
-- `pd.read_csv()`
-- `pd.DataFrame()`
-- `to_dict()`
-- `to_csv()`
-- `json.load()`
-- `json.dump()`
-- Data Persistence
-- Dictionaries for Structured Data
-- Exception Handling
-- `try`, `except`, `else`, and `finally`
-- `FileNotFoundError`
-- Writing Text Files with `open()`
-- Write Mode (`"w"`)
-- UTF-8 Encoding
-- Writing Data Line by Line
+- Reading and writing CSV files using Pandas
+- Converting DataFrames into dictionaries
+- Exception handling with `try`, `except`, `else`, and `finally`
+- Handling `FileNotFoundError`
+- Writing data line by line
 
 ### 🖥️ GUI Development
 
-- Tkinter GUI Development
-- Tkinter Widgets
-- Labels & Entry Fields
-- Buttons
-- Grid Layout Manager
-- Tkinter Canvas
-- Images with `PhotoImage`
-- Message Boxes
-- Event-Driven Programming
-- Widget Configuration
-- Timers & Countdown Logic
-- `window.after()`
-- `window.after_cancel()`
-- Handling User Input
-- Interactive GUI Applications
+- Tkinter GUI development
+- Labels, buttons, entry fields, and message boxes
+- Grid layout management
+- Canvas widgets and images
+- Event-driven programming
+- Widget configuration
+- Timers and countdown logic
+- `window.after()` and `window.after_cancel()`
+- Handling user input
+- Building interactive desktop applications
 
-### 🕸️ Web Scraping & Data Extraction
+### 🌐 HTML and CSS
 
-- Web Scraping with Python
-- `requests` Library
-- Sending HTTP GET Requests with `requests.get()`
-- Retrieving HTML Content using `response.text`
-- BeautifulSoup for HTML Parsing
-- `BeautifulSoup()` Constructor
-- HTML Parsing with `"html.parser"`
-- Finding HTML Elements using `find_all()`
-- Selecting HTML Elements by Tag Name and CSS Class
-- Extracting Text using `getText()`
-- List Comprehensions for Data Extraction
-- List Slicing with `[::-1]`
-- Reversing Lists
-- Scraping Movie Titles from Empire Online
-- Working with Archived Webpages
-- Saving Extracted Movie Titles to `movie.txt`
-- Writing Each Movie Title on a New Line
+- HTML document structure and semantic elements
+- Headings, paragraphs, images, and links
+- HTML attributes, classes, and IDs
+- Element nesting and file paths
+- Linking external CSS stylesheets
+- CSS colors, margins, borders, and widths
+- Text alignment and text transformation
+- Font families and Google Fonts
+- Styling images and webpage layouts
+- Creating simple webpages using HTML and CSS
 
-### 🌐 HTML & Web Development
-
-- HTML Basics
-- HTML Document Structure
-- `<!doctype html>`
-- `<html>`
-- `<head>`
-- `<title>`
-- `<body>`
-- Heading Elements
-- `<h1>`
-- `<h2>`
-- `<h3>`
-- Paragraphs with `<p>`
-- Horizontal Lines with `<hr />`
-- HTML Image Elements with `<img>`
-- Image Paths with `src`
-- Alternative Text with `alt`
-- Linking External CSS Stylesheets
-- CSS Basics
-- CSS Background Colors
-- CSS Text Colors
-- CSS Width and Margins
-- CSS Text Alignment
-- CSS Borders and Border Styling
-- CSS Text Transformation
-- CSS Font Families
-- Google Fonts Integration
-- HTML Classes and IDs
-- HTML Element Nesting
-- Basic Webpage Structure
-- Creating Simple Webpages
-- HTML Movie Ranking Page
-- HTML Birthday Invitation Page
-- Spanish Vocabulary Webpage
+**Projects include:**
+- Movie Ranking Project
+- Birthday Invitation Project
+- Spanish Vocabulary Project
 - Motivational Meme Website
-- Organizing Images in Folders
-- Using Headings, Paragraphs, and Images to Structure Content
-- Understanding How HTML and CSS Work Together
-- Styling Webpages Using External CSS
-- Creating Visually Appealing Web Content
 
-### 📊 Data Processing
+### 🕸️ Web Scraping and Data Extraction
 
-- Pandas
-- DataFrames
-- Reading CSV Files
-- Writing CSV Files
-- Converting DataFrames to Dictionaries
-- Working with Lists of Dictionaries
-- Data Filtering and Manipulation
-- Persistent CSV-Based Data
+- Sending HTTP requests using `requests`
+- Retrieving webpage content using `response.text`
+- Parsing HTML with BeautifulSoup
+- Using `BeautifulSoup()` and `"html.parser"`
+- Finding elements with `find()` and `find_all()`
+- Selecting elements using tags and CSS classes
+- Extracting text from HTML elements
+- List comprehensions for data extraction
+- Reversing lists using `[::-1]`
+- Working with archived webpages
+- Extracting movie titles from Empire Online
+- Writing scraped data to text files
+- Understanding webpage structure and HTML parsing
+
+**Projects include:**
+- 100 Movies to Watch — Movie Scraping Project
+- YouTube Music Playlist Project
+
+### 🎵 YouTube Music Playlist Automation
+
+- Scraping historical Billboard Hot 100 chart data
+- Retrieving song titles from HTML elements
+- Using `requests` and BeautifulSoup
+- Searching for songs using `ytmusicapi`
+- Working with song search results
+- Creating YouTube Music playlists
+- Adding tracks to playlists
+- Handling browser authentication
+- Working with JSON-based authentication files
+- Automating playlist creation from a selected date
 
 ### 🌐 API Integration
 
-- Working with REST APIs
-- HTTP GET Requests
-- HTTP POST Requests
-- HTTP PUT Requests
-- HTTP DELETE Requests
-- Python `requests` Library
-- JSON API Responses
-- `response.json()`
-- `response.raise_for_status()`
-- API Query Parameters
-- API Request Bodies
-- API Request Headers
-- Extracting Data from Nested JSON
-- Working with External APIs
-- API-Based Applications
-- Processing API Data
-- Converting API Data into Python Objects
-- API Authentication
-- Authentication Headers
-- Bearer Token Authentication
-- Working with API Keys & Tokens
-- Environment-Based API Credentials
-- Integrating Multiple APIs
-- Stock Market API Integration
-- News API Integration
-- Pixela API Integration
-- Nutritionix API Integration
-- Sheety API Integration
-- Habit Tracking with APIs
-- Exercise Tracking with APIs
-- Google Sheets API Integration
-- Processing Financial Data
-- Processing Fitness Data
-- Retrieving Company News
-- Storing API Data in Google Sheets
-- CRUD Operations with APIs
+- Understanding REST APIs
+- HTTP GET, POST, PUT, and DELETE requests
+- Sending request headers and query parameters
+- Working with JSON API responses
+- Using `response.json()` and `response.raise_for_status()`
+- Processing nested JSON data
+- API authentication and Bearer tokens
+- Working with API keys and access tokens
+- Integrating multiple APIs
+- Converting API responses into Python objects
+- Performing CRUD operations
+- Handling API errors and responses
 
-### 📱 Messaging & Notifications
+### 📱 Messaging and Notifications
 
 - Twilio API
-- Twilio WhatsApp Messaging
-- Sending WhatsApp Messages with Python
-- Twilio Client
-- Account SID
-- Authentication Tokens
-- Message SID
-- Message Status
-- Weather-Based Notifications
-- Event-Based Notifications
+- WhatsApp messaging with Python
+- Sending automated notifications
+- Working with Account SID and authentication tokens
+- Retrieving message status
+- Weather-based notifications
+- Event-based notifications
+- Stock price alerts and news notifications
 
-### 🔐 Environment Variables & Security
+### 🔐 Environment Variables and Security
 
-- Environment Variables
-- Python `os` Module
-- `os.environ.get()`
-- Storing API Credentials Outside Source Code
-- API Key Management
-- API Token Management
-- Bearer Token Management
-- Separating Configuration from Code
-- `.env` Files
+- Python `os` module
+- Using `os.environ.get()`
+- `.env` files
+- Environment variables
 - `.gitignore`
-- Basic Credential Security
-- Protecting Authentication Credentials
+- Separating configuration from source code
+- Managing API keys and tokens
+- Protecting authentication credentials
+- Keeping browser authentication files private
 
 ### 🎮 Game Development
 
-- Turtle Graphics
-- Game Logic
-- Collision Detection
-- Keyboard Controls
-- Score Tracking
-- Game States
-- Randomized Gameplay
-- Event-Driven Game Mechanics
+- Turtle graphics
+- Game logic and collision detection
+- Keyboard controls
+- Score tracking
+- Game states
+- Randomized gameplay
+- Event-driven game mechanics
 
-### 📧 Automation & Email
+### 📧 Automation and Email
 
-- Automated Email Sending
-- SMTP
-- Gmail SMTP
-- Email Automation with Python
-- `smtplib`
-- `starttls()`
-- `login()`
-- `sendmail()`
-- Email Templates
-- Date-Based Automation
-- Time-Based Automation
-- `datetime`
-- `time.sleep()`
-- Continuous Monitoring
-- Stock Price Alerts
-- News Notifications
+- Automated email sending
+- SMTP and Gmail SMTP
+- Python `smtplib`
+- `starttls()`, `login()`, and `sendmail()`
+- Email templates
+- Date-based and time-based automation
+- `datetime` and `time.sleep()`
+- Continuous monitoring
+- Automated alerts and notifications
 
-### 📈 Financial Data & News
+### 📈 Financial Data and News
 
-- Stock Market Data
-- Stock Price Monitoring
-- Stock Price Comparison
-- Closing Stock Prices
-- Percentage Change Calculation
-- Significant Price Movement Detection
-- Alpha Vantage API
-- News API
-- Company News Retrieval
-- Financial News Notifications
-- Automated Stock Alerts
+- Retrieving stock market data
+- Monitoring stock prices
+- Comparing closing prices
+- Calculating percentage changes
+- Detecting significant price movements
+- Retrieving company-related news
+- Sending financial news notifications
+- Building automated stock alerts
 
-### 📊 Habit Tracking & Data Visualization
+### 📊 Habit Tracking and Data Processing
 
-- Habit Tracking
+- Pandas and DataFrames
+- CSV data processing
 - Pixela API
-- Creating Pixela Users
-- Creating Pixela Graphs
-- Recording Daily Habit Values
-- Pixel Creation
-- Pixel Updating
-- Pixel Deletion
-- Date-Based Data Tracking
-- `datetime`
-- `strftime()`
-- API Authentication Headers
-- CRUD Operations
-- Visualizing Habit Progress
+- Creating users and habit-tracking graphs
+- Recording, updating, and deleting habit values
+- Date-based data tracking
+- Working with `datetime` and `strftime()`
+- Visualizing habit progress
+- Processing exercise information
+- Storing exercise data in Google Sheets
 
-### 🏃 Exercise Tracking & Google Sheets
+### 🏃 Exercise Tracking and Google Sheets
 
-- Exercise Tracking
 - Nutritionix API
-- Natural Language Exercise Input
-- Exercise Data Processing
-- Calorie Calculation
-- Exercise Duration Tracking
+- Natural-language exercise input
+- Processing exercise duration and estimated calories burned
 - Sheety API
-- Google Sheets Integration
-- Sending Data to Google Sheets
-- Adding New Rows to Google Sheets
-- JSON Request Bodies
-- API Authentication
-- Bearer Token Authentication
-- HTTP Request Headers
-- Environment Variables
-- API Key Management
-- Processing Nested JSON Responses
-- Date & Time Tracking
-- Automated Fitness Data Storage
-- Integrating Multiple APIs
+- Google Sheets integration
+- Adding new rows to a spreadsheet
+- JSON request bodies
+- API authentication and request headers
+- Processing nested JSON responses
+- Date and time tracking
+- Integrating multiple APIs
 
-### 🧱 Object-Oriented Programming
+### 🧰 Libraries and Tools
 
-- Classes
-- Objects
-- Constructors
-- Instance Attributes
-- Methods
-- Encapsulation of Data and Logic
-- Creating Objects from API Data
-- Separating Application Responsibilities
-
-### 🔧 Libraries & Tools
-
+- Python
 - `random`
 - `json`
-- `pyperclip`
-- `pandas`
-- `tkinter`
-- `smtplib`
+- `os`
+- `csv`
 - `datetime`
 - `time`
+- `smtplib`
+- `tkinter`
+- `pyperclip`
+- `pandas`
 - `requests`
-- `csv`
-- `os`
-- `twilio`
-- `bs4`
-- BeautifulSoup
-- Git
-- GitHub
-- HTML
-- CSS
+- `bs4` / BeautifulSoup
+- `ytmusicapi`
+- Turtle Graphics
+- HTML and CSS
+- Git and GitHub
 - Google Fonts
+- REST APIs
 
 ---
 
-## 🌐 APIs Used
-
-Through the projects completed so far, I have worked with external APIs and learned how Python applications can retrieve, process, store, and use real-world data.
+## 🌐 APIs and External Services Used
 
 ### ISS Location API
-
-Used in the **ISS Overhead Notifier** to retrieve the current latitude and longitude of the International Space Station.
+Used to retrieve the International Space Station's current location for the ISS Overhead Notifier.
 
 ### Sunrise-Sunset API
-
-Used to retrieve sunrise and sunset information and determine whether it is currently nighttime at a specified location.
+Used to retrieve sunrise and sunset information for determining nighttime at a specified location.
 
 ### Open Trivia Database API
-
-Used in the **Quiz App API** to retrieve True/False quiz questions in JSON format.
-
-The application processes the API response and converts the retrieved question data into Python objects that are used by the quiz application.
+Used to retrieve True/False quiz questions for the Quiz App.
 
 ### OpenWeatherMap API
-
-Used in the **Rain Alert** project to retrieve weather forecast information for a specified latitude and longitude.
-
-The application processes the returned JSON data and checks weather condition codes to determine whether rain is expected.
+Used to retrieve weather forecasts and check whether rain is expected.
 
 ### Twilio API
-
-Used in the **Rain Alert** project to send a WhatsApp notification when rain is expected.
-
-The application authenticates with Twilio using an Account SID and Authentication Token and sends a WhatsApp message through the Twilio service.
+Used to send WhatsApp notifications through Python.
 
 ### Alpha Vantage API
-
-Used in the **Stock News Alert** project to retrieve daily stock market data.
-
-The application retrieves the daily closing prices of a specified stock and compares recent prices to calculate the percentage change.
+Used to retrieve stock market data and compare recent closing prices.
 
 ### News API
-
-Used in the **Stock News Alert** project to retrieve news articles related to a company.
-
-When a stock price changes significantly, the application requests company-related news and retrieves the first three articles.
+Used to retrieve company-related news articles for the Stock News Alert project.
 
 ### Pixela API
-
-Used in the **Habit Tracking with Pixela** project to create and manage a graphical habit tracker.
-
-The application uses the Pixela API to:
-
-- Create a Pixela user.
-- Create a habit tracking graph.
-- Record daily habit values as pixels.
-- Update existing pixel values.
-- Delete pixel records.
-- Visualize habit progress.
+Used to create and manage a graphical habit tracker, including recording and updating daily habit values.
 
 ### Nutritionix API
-
-Used in the **Exercise Tracking Google Sheets** project to process natural language exercise descriptions.
-
-The application sends the user's exercise information to Nutritionix and retrieves details such as:
-
-- Exercise name.
-- Exercise duration.
-- Calories burned.
-
-The API uses the user's exercise description and physical information to calculate the estimated calories burned.
+Used to process natural-language exercise descriptions and retrieve exercise information, including estimated calories burned.
 
 ### Sheety API
+Used to send exercise information to Google Sheets and store exercise records.
 
-Used in the **Exercise Tracking Google Sheets** project to connect the Python application with Google Sheets.
-
-The application sends the exercise information received from Nutritionix to Sheety, which adds the data as a new row in the connected Google Sheet.
-
-The application uses the Sheety API to:
-
-- Send exercise data to Google Sheets.
-- Add new exercise records.
-- Store exercise duration.
-- Store calories burned.
-- Store exercise date and time.
-- Authenticate requests using a Bearer token.
+### YouTube Music API (`ytmusicapi`)
+Used in the YouTube Music Playlist Project to search for songs, create playlists, and add tracks to a playlist.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies and Tools
 
-- **Python**
-- **HTML**
-- **CSS**
-- **Object-Oriented Programming**
-- **Tkinter**
-- **Turtle Graphics**
-- **Pandas**
-- **Requests**
-- **BeautifulSoup**
-- **JSON**
-- **CSV**
-- **REST APIs**
-- **Open Trivia Database API**
-- **OpenWeatherMap API**
-- **Alpha Vantage API**
-- **News API**
-- **Pixela API**
-- **Nutritionix API**
-- **Sheety API**
-- **Twilio API**
-- **Google Sheets**
-- **WhatsApp Messaging**
-- **SMTP**
-- **Gmail SMTP**
-- **Environment Variables**
-- **`.env`**
-- **`.gitignore`**
-- **Pyperclip**
-- **Git**
-- **GitHub**
-- **Google Fonts**
+- **Programming:** Python
+- **Web Development:** HTML, CSS
+- **Data Processing:** Pandas, CSV, JSON
+- **Web Scraping:** Requests, BeautifulSoup
+- **GUI Development:** Tkinter
+- **Game Development:** Turtle Graphics
+- **API Integration:** REST APIs, `ytmusicapi`
+- **Automation:** SMTP, Twilio
+- **Data Storage:** Text files, CSV, JSON, Google Sheets
+- **Security:** Environment variables, `.env`, `.gitignore`
+- **Version Control:** Git, GitHub
+- **Other Tools:** Google Fonts
 
 ---
 
-## 🎯 Objective
+## 🎯 Objectives
 
 - Strengthen Python programming skills through hands-on projects.
-- Apply programming concepts by building practical applications.
-- Develop a strong understanding of Python and its libraries.
+- Apply programming concepts to practical applications.
+- Improve logical thinking, debugging, and problem-solving skills.
 - Practice Object-Oriented Programming.
-- Practice GUI development and event-driven programming.
-- Learn file handling and persistent data storage.
-- Work with JSON and CSV for structured data storage.
-- Learn and practice Pandas for data processing.
-- Practice exception handling and debugging.
-- Learn how to interact with external APIs.
-- Process JSON responses from APIs.
-- Convert API data into Python objects.
-- Build applications that use real-world API data.
-- Work with API authentication and API keys.
-- Learn how to send WhatsApp notifications using Twilio.
-- Work with environment variables to protect sensitive credentials.
+- Build interactive GUI applications and games.
+- Work with files, CSV, JSON, and persistent data storage.
+- Process structured data using Pandas.
+- Learn how to retrieve, process, and store information using APIs.
+- Understand API authentication, request headers, and environment variables.
 - Automate repetitive tasks using Python.
-- Work with email automation and SMTP.
-- Monitor stock market price movements using APIs.
-- Retrieve company-related financial news.
-- Combine multiple APIs within a single application.
-- Build event-based notification systems.
-- Build applications that maintain data between sessions.
-- Track personal habits using an external API.
-- Track exercise information using an external API.
-- Store API-generated data in Google Sheets.
-- Understand CRUD operations through API requests.
-- Work with HTTP methods such as GET, POST, PUT, and DELETE.
-- Use date-based data tracking and visualization.
-- Work with external Python libraries.
-- Learn web scraping using Python and BeautifulSoup.
-- Send HTTP requests and retrieve webpage HTML content.
-- Parse HTML and extract movie titles using tags and CSS classes.
-- Practice list comprehensions to extract data efficiently.
-- Reverse a list using Python list slicing.
-- Write extracted movie titles to a text file using UTF-8 encoding.
-- Build a movie scraping project that saves a ranked movie list to `movie.txt`.
-- Learn the fundamentals of HTML and webpage structure.
-- Build simple webpages using HTML.
-- Create a movie ranking webpage.
-- Create a birthday invitation webpage.
-- Create a Spanish vocabulary webpage.
-- Create a motivational meme website using HTML and CSS.
-- Understand HTML elements, attributes, tags, and nested structures.
-- Learn how to link external CSS stylesheets.
-- Understand the use of HTML classes and IDs.
-- Practice displaying images on webpages.
-- Apply CSS colors, margins, borders, widths, and text alignment.
-- Learn how to transform text using CSS.
-- Integrate Google Fonts into a webpage.
-- Understand how HTML and CSS work together.
-- Improve problem-solving and logical thinking skills.
+- Build applications that send emails and notifications.
+- Retrieve and analyze stock market data and company news.
+- Track habits and exercise information using external APIs.
+- Store application data in Google Sheets.
+- Learn HTML and CSS by building simple webpages.
+- Scrape websites and extract useful information with BeautifulSoup.
+- Automate song searches and playlist creation using YouTube Music.
 - Build a portfolio that demonstrates consistent learning and practical experience.
-- Track my progress throughout the **100 Days of Code** bootcamp.
 
 ---
 
 ## 📌 Note
 
-This repository documents my learning journey through the **100 Days of Code: The Complete Python Pro Bootcamp**.
+This repository documents my learning journey through **100 Days of Code: The Complete Python Pro Bootcamp**.
 
-The projects are based on concepts taught in the course, with additional experimentation, refactoring, and improvements where applicable.
+The projects are based on concepts taught in the course, with additional experimentation and improvements where applicable.
 
-**Day 39 and Day 40 are currently pending and will be completed as I continue progressing through the course. Day 45, the 100 Movies to Watch movie-scraping project, has been completed. The repository will continue to be updated as I progress.**
+**Days 39 and 40 are currently pending.** I will continue updating this repository as I complete more projects and learn new concepts.
 
-⭐ If you found this repository helpful or interesting, feel free to star it!
+⭐ If you find this repository helpful or interesting, feel free to star it!
