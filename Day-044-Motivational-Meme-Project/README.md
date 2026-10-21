@@ -1,14 +1,14 @@
 # Day 44 - Motivational Meme Website
 
-📖 Overview
+## 📖 Overview
 
-The Motivational Meme Website is a simple webpage created as part of the 100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu.
+The Motivational Meme Website is a simple webpage created as part of the **100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu**.
 
-The project displays a motivational poster featuring an image of a man helping another man climb a mountain. It includes the word "Rise" as the main heading and an inspirational quote about helping others overcome their struggles.
+The project displays a motivational poster featuring an image of a man helping another man climb a mountain. It includes the word **"Rise"** as the main heading and an inspirational quote about helping others overcome their struggles.
 
 The webpage is built using HTML and CSS. Day 44 focuses on CSS styling, including background colors, text alignment, margins, image borders, text transformation, font styling, and the use of Google Fonts to improve the appearance of a webpage.
 
-🎯 Objective
+## 🎯 Objective
 
 Create a simple motivational meme webpage that:
 
@@ -22,225 +22,252 @@ Create a simple motivational meme webpage that:
 - Imports and applies a Google Font to style the heading.
 - Understands how HTML and CSS work together to create a visually appealing webpage.
 
-🛠️ Concepts Practiced
+## 🛠️ Concepts Practiced
 
 **HTML**
 
-HTML document structure
-
-HTML headings and paragraphs
-
-Image elements and attributes
-
-Linking external stylesheets
-
-Linking Google Fonts
-
-Classes and attributes
+- HTML document structure
+- HTML headings and paragraphs
+- Image elements and attributes
+- Linking external stylesheets
+- Linking Google Fonts
+- Classes and attributes
 
 **CSS**
 
-Background colors
+- Background colors
+- Text alignment
+- Margins and width
+- Image styling
+- Borders and border colors
+- Text transformation
+- Font families
+- Text colors
+- External font integration
 
-Text alignment
+## 📚 HTML Elements Used
 
-Margins and width
-
-Image styling
-
-Borders and border colors
-
-Text transformation
-
-Font families
-
-Text colors
-
-External font integration
-
-📚 HTML Elements Used
-
-**<!doctype html>**
+### `<!DOCTYPE html>`
 
 Tells the browser that the document uses modern HTML.
 
-**<html lang="en">**
+### `<html lang="en">`
 
 The root element of the HTML document. The `lang` attribute specifies that the webpage content is in English.
 
-**<head>**
+### `<head>`
 
 Contains metadata, the webpage title, and links to external resources such as stylesheets and fonts.
 
-**<meta charset="UTF-8" />**
+### `<meta charset="UTF-8" />`
 
 Specifies the character encoding so that text and special characters can be displayed correctly.
 
-**<meta name="viewport" content="width=device-width, initial-scale=1.0" />**
+### `<meta name="viewport" content="width=device-width, initial-scale=1.0" />`
 
 Helps the webpage adapt to different screen sizes, including mobile devices.
 
-**<title>**
+### `<title>`
 
 Sets the title displayed in the browser tab.
 
-`<title>Motivational Meme Website</title>`
+```html
+<title>Motivational Meme Website</title>
+```
 
-**<link>**
+### `<link>`
 
 Connects external resources to the HTML document, such as the CSS stylesheet and Google Fonts.
 
-`<link rel="stylesheet" href="./style.css" />`
+```html
+<link rel="stylesheet" href="./style.css" />
+```
 
 The `rel` attribute specifies the relationship between the HTML document and the linked resource, while `href` specifies its location.
 
-**<div>**
+### `<div>`
 
 Creates a container that groups related HTML elements together.
 
-`<div class="poster">`
+```html
+<div class="poster">
+```
 
 The `poster` class allows the entire motivational poster section to be styled using CSS.
 
-**<img>**
+### `<img>`
 
 Displays an image on the webpage.
 
-`<img class="poster-img" src="./assets/images/motivation.jpg" alt="A man helping another man climb a mountain" />`
+```html
+<img
+  class="poster-img"
+  src="./assets/images/motivation.jpg"
+  alt="A man helping another man climb a mountain"
+/>
+```
 
 The `src` attribute specifies the image path, while the `alt` attribute provides alternative text describing the image.
 
-**<h1>**
+### `<h1>`
 
 Defines the main heading of the webpage.
 
-`<h1>r i s e</h1>`
+```html
+<h1>r i s e</h1>
+```
 
 The heading displays the word "Rise" with spaces between the letters to create a visual effect. CSS is used to transform the text to uppercase.
 
-**<p>**
+### `<p>`
 
 Defines a paragraph of text.
 
-`<p>A helping hand can turn someone’s struggle into their greatest strength.</p>`
+```html
+<p>
+  A helping hand can turn someone’s struggle into their greatest strength.
+</p>
+```
 
 The paragraph displays the motivational quote below the heading.
 
-🎨 CSS Properties Practiced
+## 🎨 CSS Properties Practiced
 
-**background-color**
+### `background-color`
 
 Sets the background color of an element.
 
-`background-color: black;`
+```css
+background-color: black;
+```
 
 Used to give the webpage a black background that contrasts with the golden and orange text.
 
-**width**
+### `width`
 
 Controls the width of an element.
 
-`width: 50%;`
+```css
+width: 50%;
+```
 
 Used to set the poster container's width to 50% of its containing block.
 
-**margin-left**
+### `margin-left`
 
 Sets the left margin of an element.
 
-`margin-left: 25%;`
+```css
+margin-left: 25%;
+```
 
 Used to position the poster container horizontally.
 
-**margin-top**
+### `margin-top`
 
 Sets the top margin of an element.
 
-`margin-top: 100px;`
+```css
+margin-top: 100px;
+```
 
 Adds space above the poster container.
 
-**text-align**
+### `text-align`
 
 Controls the horizontal alignment of text.
 
-`text-align: center;`
+```css
+text-align: center;
+```
 
 Centers the poster's text content.
 
-**color**
+### `color`
 
 Sets the text color of an element.
 
-`color: #ffc349;`
+```css
+color: #ffc349;
+```
 
 Applies a golden color to the poster text.
 
-**border**
+### `border`
 
 Adds a border around an element.
 
-`border: 5px solid #ffc349;`
+```css
+border: 5px solid #ffc349;
+```
 
 Adds a solid golden border around the motivational image.
 
-**text-transform**
+### `text-transform`
 
 Controls the capitalization of text.
 
-`text-transform: uppercase;`
+```css
+text-transform: uppercase;
+```
 
 Transforms the heading text to uppercase.
 
-**font-family**
+### `font-family`
 
 Specifies the font used for text.
 
-`font-family: "Libre Baskerville", serif;`
+```css
+font-family: "Libre Baskerville", serif;
+```
 
 Uses the Libre Baskerville font imported from Google Fonts, with a serif fallback.
 
-**Google Fonts**
+### Google Fonts
 
 The project imports the Libre Baskerville font using a Google Fonts URL. This provides a more elegant and readable appearance for the motivational heading.
 
-📂 Project Structure
+## 📂 Project Structure
 
-Day-044-Motivational-Meme-Website/  
-│  
-├── index.html # Main HTML webpage  
-├── style.css # CSS stylesheet  
-├── assets/  
-│ └── images/  
-│ └── motivation.jpg # Motivational poster image  
-└── README.md # Project documentation
+```text
+Day-044-Motivational-Meme-Website/
+│
+├── index.html              # Main HTML webpage
+├── style.css               # CSS stylesheet
+├── assets/
+│   └── images/
+│       └── motivation.jpg  # Motivational poster image
+│
+└── README.md               # Project documentation
+```
 
-💻 Code Structure
+## 💻 Code Structure
 
 The webpage follows this basic structure:
 
-HTML Document  
-↓
-
-<html>  
-↓  
-<head>  
-↓  
-Page Title + CSS Link + Google Fonts  
-↓  
-<body>  
-↓  
-Poster Container  
-↓  
-Motivational Image  
-↓  
-Main Heading — "Rise"  
-↓  
+```text
+HTML Document
+      ↓
+<html>
+      ↓
+<head>
+      ↓
+Page Title + CSS Link + Google Fonts
+      ↓
+<body>
+      ↓
+Poster Container
+      ↓
+Motivational Image
+      ↓
+Main Heading — "Rise"
+      ↓
 Inspirational Quote
+```
 
 The CSS stylesheet controls the poster's position, image dimensions, border, background color, text alignment, text colors, and font styling.
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 By completing this project, I learned how to:
 
@@ -261,7 +288,7 @@ By completing this project, I learned how to:
 - Understand how CSS properties affect the appearance and layout of HTML elements.
 - Combine HTML structure and CSS styling to create a motivational poster.
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 Possible improvements for this project include:
 
@@ -276,7 +303,7 @@ Possible improvements for this project include:
 - Create a collection of motivational memes with different themes.
 - Improve the image sizing and layout for different screen resolutions.
 
-🔑 Key Takeaway
+## 🔑 Key Takeaway
 
 This project helped me practice CSS styling and understand how basic CSS properties can transform a simple HTML document into a visually appealing webpage.
 
@@ -284,4 +311,4 @@ The main takeaway was learning how to combine HTML elements with CSS properties 
 
 I also gained hands-on experience integrating Google Fonts into a webpage and using visual design elements to make content more engaging.
 
-This project strengthened my understanding of HTML and CSS as part of my 100 Days of Code journey.
+This project strengthened my understanding of HTML and CSS as part of my **100 Days of Code journey**.
