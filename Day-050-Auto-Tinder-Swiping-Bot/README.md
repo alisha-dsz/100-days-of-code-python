@@ -142,9 +142,4 @@ This project strengthened my understanding of **Python browser automation using 
 
 These skills are useful for developing browser automation scripts, website testing tools, and other web-based automation solutions.
 
----
 
-**Project Name:** Auto Tinder Swiping Bot  
-**Day:** 50  
-**Course:** 100 Days of Code – The Complete Python Pro Bootcamp  
-**Status:** Completed ✅
