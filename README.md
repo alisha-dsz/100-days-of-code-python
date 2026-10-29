@@ -2,13 +2,13 @@
 
 This repository contains the projects I have completed while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
-Through these hands-on projects, I am developing my skills in Python programming, object-oriented programming, GUI development, data handling, API integration, automation, HTML, CSS, web scraping, and working with external services.
+Through these hands-on projects, I am developing my skills in Python programming, object-oriented programming, GUI development, data handling, API integration, automation, HTML, CSS, web scraping, browser automation, and working with external services.
 
 ---
 
 ## 📂 Projects
 
-| Day | Project | Status |
+| **Day** | **Project** | **Status** |
 |---|---|---|
 | Day 1 | Band Name Generator | ✅ Completed |
 | Day 2 | Tip Calculator | ✅ Completed |
@@ -55,15 +55,19 @@ Through these hands-on projects, I am developing my skills in Python programming
 | Day 44 | Motivational Meme Website | ✅ Completed |
 | Day 45 | 100 Movies to Watch — Movie Scraping Project | ✅ Completed |
 | Day 46 | YouTube Music Playlist Project | ✅ Completed |
+| Day 47 | Amazon Price Tracking Bot | ✅ Completed |
+| Day 48 | Pending | ⏳ Pending |
+| Day 49 | Pending | ⏳ Pending |
+| Day 50 | Auto Tinder Swiping Bot | ✅ Completed |
 
 ---
 
 ## 📊 Progress
 
-- ✅ **Projects Completed:** 44
-- ⏳ **Projects Pending:** 2
-- 📅 **Current Progress:** Day 46 / 100
-- 📈 **Completed Project Percentage:** 44%
+- ✅ **Projects Completed:** 46
+- ⏳ **Projects Pending:** 4
+- 📅 **Current Progress:** Day 50 / 100
+- 📈 **Completed Project Percentage:** 46%
 
 > 🚀 This repository will be continuously updated as I progress through the bootcamp.
 
@@ -126,6 +130,7 @@ Through these hands-on projects, I am developing my skills in Python programming
 - Creating simple webpages using HTML and CSS
 
 **Projects include:**
+
 - Movie Ranking Project
 - Birthday Invitation Project
 - Spanish Vocabulary Project
@@ -145,11 +150,26 @@ Through these hands-on projects, I am developing my skills in Python programming
 - Working with archived webpages
 - Extracting movie titles from Empire Online
 - Writing scraped data to text files
+- Extracting product information from webpages
 - Understanding webpage structure and HTML parsing
+- Handling request failures and missing elements
 
 **Projects include:**
+
 - 100 Movies to Watch — Movie Scraping Project
 - YouTube Music Playlist Project
+- Amazon Price Tracking Bot
+
+### 🛒 Price Tracking and Shopping Automation
+
+- Retrieving product information from webpages
+- Extracting product titles and prices using BeautifulSoup
+- Converting price strings into numeric values
+- Comparing current prices against target prices
+- Implementing conditional price checks
+- Sending email alerts when price conditions are met
+- Understanding website access restrictions and scraping limitations
+- Exploring automated product price monitoring
 
 ### 🎵 YouTube Music Playlist Automation
 
@@ -224,6 +244,26 @@ Through these hands-on projects, I am developing my skills in Python programming
 - Continuous monitoring
 - Automated alerts and notifications
 
+### 🌐 Browser Automation with Selenium
+
+- Launching and controlling Chrome with Selenium WebDriver
+- Locating web elements using IDs and class names
+- Selecting elements using CSS selectors and XPath
+- Using `WebDriverWait` and expected conditions
+- Waiting for elements to become visible or clickable
+- Managing multiple browser windows and window handles
+- Simulating keyboard actions using `Keys`
+- Automating button clicks and browser interactions
+- Handling `ElementClickInterceptedException`
+- Handling `NoSuchElementException`
+- Repeating browser actions using loops
+- Understanding the difference between fixed delays and explicit waits
+- Automating repetitive browser-based workflows
+
+**Project include:**
+
+- Auto Tinder Swiping Bot
+
 ### 📈 Financial Data and News
 
 - Retrieving stock market data
@@ -277,6 +317,7 @@ Through these hands-on projects, I am developing my skills in Python programming
 - `pandas`
 - `requests`
 - `bs4` / BeautifulSoup
+- `selenium`
 - `ytmusicapi`
 - Turtle Graphics
 - HTML and CSS
@@ -289,37 +330,52 @@ Through these hands-on projects, I am developing my skills in Python programming
 ## 🌐 APIs and External Services Used
 
 ### ISS Location API
+
 Used to retrieve the International Space Station's current location for the ISS Overhead Notifier.
 
 ### Sunrise-Sunset API
+
 Used to retrieve sunrise and sunset information for determining nighttime at a specified location.
 
 ### Open Trivia Database API
+
 Used to retrieve True/False quiz questions for the Quiz App.
 
 ### OpenWeatherMap API
+
 Used to retrieve weather forecasts and check whether rain is expected.
 
 ### Twilio API
+
 Used to send WhatsApp notifications through Python.
 
 ### Alpha Vantage API
+
 Used to retrieve stock market data and compare recent closing prices.
 
 ### News API
+
 Used to retrieve company-related news articles for the Stock News Alert project.
 
 ### Pixela API
+
 Used to create and manage a graphical habit tracker, including recording and updating daily habit values.
 
 ### Nutritionix API
+
 Used to process natural-language exercise descriptions and retrieve exercise information, including estimated calories burned.
 
 ### Sheety API
+
 Used to send exercise information to Google Sheets and store exercise records.
 
 ### YouTube Music API (`ytmusicapi`)
+
 Used in the YouTube Music Playlist Project to search for songs, create playlists, and add tracks to a playlist.
+
+### Amazon Product Pages
+
+Used in the Amazon Price Tracking Bot to practice extracting displayed product information from a product page. Website access and scraping behavior may vary, so an authorized data source should be used where available.
 
 ---
 
@@ -329,10 +385,11 @@ Used in the YouTube Music Playlist Project to search for songs, create playlists
 - **Web Development:** HTML, CSS
 - **Data Processing:** Pandas, CSV, JSON
 - **Web Scraping:** Requests, BeautifulSoup
+- **Browser Automation:** Selenium WebDriver
 - **GUI Development:** Tkinter
 - **Game Development:** Turtle Graphics
 - **API Integration:** REST APIs, `ytmusicapi`
-- **Automation:** SMTP, Twilio
+- **Automation:** SMTP, Twilio, Selenium WebDriver
 - **Data Storage:** Text files, CSV, JSON, Google Sheets
 - **Security:** Environment variables, `.env`, `.gitignore`
 - **Version Control:** Git, GitHub
@@ -359,6 +416,8 @@ Used in the YouTube Music Playlist Project to search for songs, create playlists
 - Learn HTML and CSS by building simple webpages.
 - Scrape websites and extract useful information with BeautifulSoup.
 - Automate song searches and playlist creation using YouTube Music.
+- Monitor product prices and explore automated price alerts.
+- Automate browser interactions using Selenium WebDriver.
 - Build a portfolio that demonstrates consistent learning and practical experience.
 
 ---
@@ -369,6 +428,6 @@ This repository documents my learning journey through **100 Days of Code: The Co
 
 The projects are based on concepts taught in the course, with additional experimentation and improvements where applicable.
 
-**Days 39 and 40 are currently pending.** I will continue updating this repository as I complete more projects and learn new concepts.
+**Days 39, 40, 48, and 49 are currently pending.** I will continue updating this repository as I complete more projects and learn new concepts.
 
 ⭐ If you find this repository helpful or interesting, feel free to star it!
