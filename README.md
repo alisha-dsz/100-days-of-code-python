@@ -8,66 +8,67 @@ Through these hands-on projects, I am developing my skills in Python programming
 
 ## 📂 Projects
 
-| **Day** | **Project** | **Status** |
-|---|---|---|
-| Day 1 | Band Name Generator | ✅ Completed |
-| Day 2 | Tip Calculator | ✅ Completed |
-| Day 3 | Treasure Island | ✅ Completed |
-| Day 4 | Rock Paper Scissors | ✅ Completed |
-| Day 5 | Password Generator | ✅ Completed |
-| Day 6 | Escaping the Maze (Reeborg's World) | ✅ Completed |
-| Day 7 | Hangman | ✅ Completed |
-| Day 8 | Caesar Cipher | ✅ Completed |
-| Day 9 | Secret Auction Program | ✅ Completed |
-| Day 10 | Calculator Project | ✅ Completed |
-| Day 11 | Blackjack Capstone Project | ✅ Completed |
-| Day 12 | Number Guessing Game | ✅ Completed |
-| Day 13 | Debugging | ✅ Completed |
-| Day 14 | Higher Lower Game | ✅ Completed |
-| Day 15 | Coffee Machine | ✅ Completed |
-| Day 16 | Coffee Machine (OOP) | ✅ Completed |
-| Day 17 | Quiz Game | ✅ Completed |
-| Day 18 | Hirst Spot Painting | ✅ Completed |
-| Day 19 | Turtle Race | ✅ Completed |
-| Day 20–21 | Snake Game | ✅ Completed |
-| Day 22 | Pong Game | ✅ Completed |
-| Day 23 | Turtle Crossing Game Capstone Project | ✅ Completed |
-| Day 24 | Mail Merger Project | ✅ Completed |
-| Day 25 | U.S. States Game | ✅ Completed |
-| Day 26 | NATO Phonetic Alphabet Project | ✅ Completed |
-| Day 27 | Mile to Kilometer Converter | ✅ Completed |
-| Day 28 | Pomodoro Timer | ✅ Completed |
-| Day 29 | Password Manager | ✅ Completed |
-| Day 30 | Password Manager with JSON Storage | ✅ Completed |
-| Day 31 | Flash Card App Capstone Project | ✅ Completed |
-| Day 32 | Automated Birthday Wisher | ✅ Completed |
-| Day 33 | ISS Overhead Notifier | ✅ Completed |
-| Day 34 | Quiz App API | ✅ Completed |
-| Day 35 | Rain Alert | ✅ Completed |
-| Day 36 | Stock News Alert | ✅ Completed |
-| Day 37 | Habit Tracking with Pixela | ✅ Completed |
-| Day 38 | Exercise Tracking with Google Sheets | ✅ Completed |
-| Day 39 | Pending | ⏳ Pending |
-| Day 40 | Pending | ⏳ Pending |
-| Day 41 | Movie Ranking Project | ✅ Completed |
-| Day 42 | Birthday Invite Project | ✅ Completed |
-| Day 43 | Spanish Vocabulary Project | ✅ Completed |
-| Day 44 | Motivational Meme Website | ✅ Completed |
-| Day 45 | 100 Movies to Watch — Movie Scraping Project | ✅ Completed |
-| Day 46 | YouTube Music Playlist Project | ✅ Completed |
-| Day 47 | Amazon Price Tracking Bot | ✅ Completed |
-| Day 48 | Pending | ⏳ Pending |
-| Day 49 | Pending | ⏳ Pending |
-| Day 50 | Auto Tinder Swiping Bot | ✅ Completed |
+| **Day**   | **Project**                                  | **Status**  |
+| --------- | -------------------------------------------- | ----------- |
+| Day 1     | Band Name Generator                          | ✅ Completed |
+| Day 2     | Tip Calculator                               | ✅ Completed |
+| Day 3     | Treasure Island                              | ✅ Completed |
+| Day 4     | Rock Paper Scissors                          | ✅ Completed |
+| Day 5     | Password Generator                           | ✅ Completed |
+| Day 6     | Escaping the Maze (Reeborg's World)          | ✅ Completed |
+| Day 7     | Hangman                                      | ✅ Completed |
+| Day 8     | Caesar Cipher                                | ✅ Completed |
+| Day 9     | Secret Auction Program                       | ✅ Completed |
+| Day 10    | Calculator Project                           | ✅ Completed |
+| Day 11    | Blackjack Capstone Project                   | ✅ Completed |
+| Day 12    | Number Guessing Game                         | ✅ Completed |
+| Day 13    | Debugging                                    | ✅ Completed |
+| Day 14    | Higher Lower Game                            | ✅ Completed |
+| Day 15    | Coffee Machine                               | ✅ Completed |
+| Day 16    | Coffee Machine (OOP)                         | ✅ Completed |
+| Day 17    | Quiz Game                                    | ✅ Completed |
+| Day 18    | Hirst Spot Painting                          | ✅ Completed |
+| Day 19    | Turtle Race                                  | ✅ Completed |
+| Day 20–21 | Snake Game                                   | ✅ Completed |
+| Day 22    | Pong Game                                    | ✅ Completed |
+| Day 23    | Turtle Crossing Game Capstone Project        | ✅ Completed |
+| Day 24    | Mail Merger Project                          | ✅ Completed |
+| Day 25    | U.S. States Game                             | ✅ Completed |
+| Day 26    | NATO Phonetic Alphabet Project               | ✅ Completed |
+| Day 27    | Mile to Kilometer Converter                  | ✅ Completed |
+| Day 28    | Pomodoro Timer                               | ✅ Completed |
+| Day 29    | Password Manager                             | ✅ Completed |
+| Day 30    | Password Manager with JSON Storage           | ✅ Completed |
+| Day 31    | Flash Card App Capstone Project              | ✅ Completed |
+| Day 32    | Automated Birthday Wisher                    | ✅ Completed |
+| Day 33    | ISS Overhead Notifier                        | ✅ Completed |
+| Day 34    | Quiz App API                                 | ✅ Completed |
+| Day 35    | Rain Alert                                   | ✅ Completed |
+| Day 36    | Stock News Alert                             | ✅ Completed |
+| Day 37    | Habit Tracking with Pixela                   | ✅ Completed |
+| Day 38    | Exercise Tracking with Google Sheets         | ✅ Completed |
+| Day 39    | Pending                                      | ⏳ Pending   |
+| Day 40    | Pending                                      | ⏳ Pending   |
+| Day 41    | Movie Ranking Project                        | ✅ Completed |
+| Day 42    | Birthday Invite Project                      | ✅ Completed |
+| Day 43    | Spanish Vocabulary Project                   | ✅ Completed |
+| Day 44    | Motivational Meme Website                    | ✅ Completed |
+| Day 45    | 100 Movies to Watch — Movie Scraping Project | ✅ Completed |
+| Day 46    | YouTube Music Playlist Project               | ✅ Completed |
+| Day 47    | Amazon Price Tracking Bot                    | ✅ Completed |
+| Day 48    | Pending                                      | ⏳ Pending   |
+| Day 49    | Pending                                      | ⏳ Pending   |
+| Day 50    | Auto Tinder Swiping Bot                      | ✅ Completed |
+| Day 51    | X Complaint Bot                              | ✅ Completed |
 
 ---
 
 ## 📊 Progress
 
-- ✅ **Projects Completed:** 46
+- ✅ **Projects Completed:** 47
 - ⏳ **Projects Pending:** 4
-- 📅 **Current Progress:** Day 50 / 100
-- 📈 **Completed Project Percentage:** 46%
+- 📅 **Current Progress:** Day 51 / 100
+- 📈 **Completed Project Percentage:** 47%
 
 > 🚀 This repository will be continuously updated as I progress through the bootcamp.
 
@@ -213,14 +214,16 @@ Through these hands-on projects, I am developing my skills in Python programming
 ### 🔐 Environment Variables and Security
 
 - Python `os` module
-- Using `os.environ.get()`
+- Using `os.environ.get()` and `os.getenv()`
 - `.env` files
 - Environment variables
+- `python-dotenv`
 - `.gitignore`
 - Separating configuration from source code
 - Managing API keys and tokens
 - Protecting authentication credentials
 - Keeping browser authentication files private
+- Preventing accidental credential exposure on GitHub
 
 ### 🎮 Game Development
 
@@ -259,10 +262,15 @@ Through these hands-on projects, I am developing my skills in Python programming
 - Repeating browser actions using loops
 - Understanding the difference between fixed delays and explicit waits
 - Automating repetitive browser-based workflows
+- Extracting dynamic internet speed measurements
+- Comparing actual and promised internet speeds
+- Automating login workflows using environment variables
+- Generating and posting messages based on retrieved data
 
-**Project include:**
+**Projects include:**
 
 - Auto Tinder Swiping Bot
+- X Complaint Bot
 
 ### 📈 Financial Data and News
 
@@ -319,11 +327,11 @@ Through these hands-on projects, I am developing my skills in Python programming
 - `bs4` / BeautifulSoup
 - `selenium`
 - `ytmusicapi`
+- `python-dotenv`
 - Turtle Graphics
 - HTML and CSS
 - Git and GitHub
 - Google Fonts
-- REST APIs
 
 ---
 
@@ -377,6 +385,10 @@ Used in the YouTube Music Playlist Project to search for songs, create playlists
 
 Used in the Amazon Price Tracking Bot to practice extracting displayed product information from a product page. Website access and scraping behavior may vary, so an authorized data source should be used where available.
 
+### Speedtest.net
+
+Used in the X Complaint Bot to measure internet download and upload speeds and retrieve the results for comparison against promised internet speeds.
+
 ---
 
 ## 🛠️ Technologies and Tools
@@ -391,9 +403,9 @@ Used in the Amazon Price Tracking Bot to practice extracting displayed product i
 - **API Integration:** REST APIs, `ytmusicapi`
 - **Automation:** SMTP, Twilio, Selenium WebDriver
 - **Data Storage:** Text files, CSV, JSON, Google Sheets
-- **Security:** Environment variables, `.env`, `.gitignore`
+- **Security:** Environment variables, `python-dotenv`, `.env`, `.gitignore`
 - **Version Control:** Git, GitHub
-- **Other Tools:** Google Fonts
+- **Other Tools:** Google Fonts, Speedtest.net
 
 ---
 
@@ -418,6 +430,8 @@ Used in the Amazon Price Tracking Bot to practice extracting displayed product i
 - Automate song searches and playlist creation using YouTube Music.
 - Monitor product prices and explore automated price alerts.
 - Automate browser interactions using Selenium WebDriver.
+- Measure and compare internet download and upload speeds.
+- Generate automated messages based on retrieved information.
 - Build a portfolio that demonstrates consistent learning and practical experience.
 
 ---
