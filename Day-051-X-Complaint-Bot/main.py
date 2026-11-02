@@ -62,4 +62,3 @@ class InternetSpeedTwitterBot:
 bot = InternetSpeedTwitterBot()
 bot.get_internet_speed()
 bot.twitter_at_provider()
-# //*[@id="onetrust-accept-btn-handler"]
