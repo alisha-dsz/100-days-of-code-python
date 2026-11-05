@@ -61,15 +61,16 @@ Through these hands-on projects, I am developing my skills in Python programming
 | Day 50 | Auto Tinder Swiping Bot | ✅ Completed |
 | Day 51 | X Complaint Bot | ✅ Completed |
 | Day 52 | Instagram Follower Bot | ✅ Completed |
+| Day 53 | Data Entry Automation Capstone Project | ✅ Completed |
 
 ---
 
 ## 📊 Progress
 
-- ✅ **Projects Completed:** 48
+- ✅ **Projects Completed:** 49
 - ⏳ **Projects Pending:** 4
-- 📅 **Current Progress:** Day 52 / 100
-- 📈 **Completed Project Percentage:** 48%
+- 📅 **Current Progress:** Day 53 / 100
+- 📈 **Completed Project Percentage:** 49%
 
 > 🚀 This repository will be continuously updated as I progress through the bootcamp.
 
@@ -147,6 +148,8 @@ Through these hands-on projects, I am developing my skills in Python programming
 - Finding elements with `find()` and `find_all()`
 - Selecting elements using tags and CSS classes
 - Extracting text from HTML elements
+- Extracting HTML attributes using `get()`
+- Cleaning extracted data using string manipulation
 - List comprehensions for data extraction
 - Reversing lists using `[::-1]`
 - Working with archived webpages
@@ -155,12 +158,15 @@ Through these hands-on projects, I am developing my skills in Python programming
 - Extracting product information from webpages
 - Understanding webpage structure and HTML parsing
 - Handling request failures and missing elements
+- Scraping rental property prices, addresses, and listing URLs
+- Processing scraped data before transferring it to online forms
 
 **Projects include:**
 
 - 100 Movies to Watch — Movie Scraping Project
 - YouTube Music Playlist Project
 - Amazon Price Tracking Bot
+- Data Entry Automation Capstone Project
 
 ### 🛒 Price Tracking and Shopping Automation
 
@@ -258,6 +264,8 @@ Through these hands-on projects, I am developing my skills in Python programming
 - Managing multiple browser windows and window handles
 - Simulating keyboard actions using `Keys`
 - Automating button clicks and browser interactions
+- Filling out online forms automatically
+- Automating Google Forms submissions
 - Handling `ElementClickInterceptedException`
 - Handling `NoSuchElementException`
 - Repeating browser actions using loops
@@ -279,6 +287,7 @@ Through these hands-on projects, I am developing my skills in Python programming
 - Auto Tinder Swiping Bot
 - X Complaint Bot
 - Instagram Follower Bot
+- Data Entry Automation Capstone Project
 
 ### 📈 Financial Data and News
 
@@ -346,43 +355,64 @@ Through these hands-on projects, I am developing my skills in Python programming
 ## 🌐 APIs and External Services Used
 
 ### ISS Location API
+
 Used to retrieve the International Space Station's current location for the ISS Overhead Notifier.
 
 ### Sunrise-Sunset API
+
 Used to retrieve sunrise and sunset information for determining nighttime at a specified location.
 
 ### Open Trivia Database API
+
 Used to retrieve True/False quiz questions for the Quiz App.
 
 ### OpenWeatherMap API
+
 Used to retrieve weather forecasts and check whether rain is expected.
 
 ### Twilio API
+
 Used to send WhatsApp notifications through Python.
 
 ### Alpha Vantage API
+
 Used to retrieve stock market data and compare recent closing prices.
 
 ### News API
+
 Used to retrieve company-related news articles for the Stock News Alert project.
 
 ### Pixela API
+
 Used to create and manage a graphical habit tracker, including recording and updating daily habit values.
 
 ### Nutritionix API
+
 Used to process natural-language exercise descriptions and retrieve exercise information, including estimated calories burned.
 
 ### Sheety API
+
 Used to send exercise information to Google Sheets and store exercise records.
 
 ### YouTube Music API (`ytmusicapi`)
+
 Used in the YouTube Music Playlist Project to search for songs, create playlists, and add tracks to a playlist.
 
 ### Amazon Product Pages
+
 Used in the Amazon Price Tracking Bot to practice extracting displayed product information from a product page. Website access and scraping behavior may vary, so an authorized data source should be used where available.
 
 ### Speedtest.net
+
 Used in the X Complaint Bot to measure internet download and upload speeds and retrieve the results for comparison against promised internet speeds.
+
+### Zillow Clone Website
+
+Used in the Data Entry Automation Capstone Project to scrape rental property prices, addresses, and listing URLs using Requests and BeautifulSoup.
+
+### Google Forms
+
+Used to automatically enter scraped rental property information and submit multiple form responses using Selenium WebDriver.
 
 ---
 
@@ -400,7 +430,7 @@ Used in the X Complaint Bot to measure internet download and upload speeds and r
 - **Data Storage:** Text files, CSV, JSON, Google Sheets
 - **Security:** Environment variables, `python-dotenv`, `.env`, `.gitignore`
 - **Version Control:** Git, GitHub
-- **Other Tools:** Google Fonts, Speedtest.net
+- **Other Tools:** Google Fonts, Speedtest.net, Google Forms
 
 ---
 
@@ -428,6 +458,8 @@ Used in the X Complaint Bot to measure internet download and upload speeds and r
 - Measure and compare internet download and upload speeds.
 - Generate automated messages based on retrieved information.
 - Automate repetitive social media interactions in practice environments.
+- Extract rental property information and automate online form submissions.
+- Combine web scraping and browser automation into end-to-end workflows.
 - Build a portfolio that demonstrates consistent learning and practical experience.
 
 ---
